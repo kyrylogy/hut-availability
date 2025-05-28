@@ -1,5 +1,6 @@
 
 const API_KEY = '__MAPY_API_KEY__';
+const AVAILABILITY_ENDPOINT = '__NETLIFY_FUNCTION_URL__';
 
 const map = L.map('map').setView([47.5, 13.3], 8);
 
@@ -43,7 +44,7 @@ fetch('huts_with_coords.json')
       marker.bindPopup(`<b>${hut.hutName}</b><br><em>Loading availability...</em>`, { autoPan: false });
 
       marker.on('click', () => {
-        fetch(`availability/${hut.hutId}.json`)
+        fetch(`${AVAILABILITY_ENDPOINT}?hutId=${hut.hutId}`)
           .then(res => res.json())
           .then(data => {
             let html = `<b>${hut.hutName}</b><br><div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:5px;">`;
