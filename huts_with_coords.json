@@ -1,0 +1,3523 @@
+[
+  {
+    "hutName": "Aarbiwak SAC",
+    "hutId": 603,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Adamek-Hütte",
+    "hutId": 491,
+    "hutCountry": "AT",
+    "lat": 47.4922572,
+    "lng": 13.5838146
+  },
+  {
+    "hutName": "Adolf-Noßberger-Hütte",
+    "hutId": 408,
+    "hutCountry": "AT",
+    "lat": 46.9540045,
+    "lng": 12.7810076
+  },
+  {
+    "hutName": "Agroturissem Alp d'Err",
+    "hutId": 550,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Almagellerhütte SAC",
+    "hutId": 208,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Almtaler Haus",
+    "hutId": 416,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Alois-Günther-Haus",
+    "hutId": 411,
+    "hutCountry": "AT",
+    "lat": 47.5742003,
+    "lng": 15.7907381
+  },
+  {
+    "hutName": "Alpenrose-Hütte Zillertal",
+    "hutId": 303,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Alpenrosenhütte im Brixental",
+    "hutId": 114,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Alpwirtschaft Tanzboden",
+    "hutId": 467,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Anhalter Hütte",
+    "hutId": 395,
+    "hutCountry": "AT",
+    "lat": 47.3012754,
+    "lng": 10.6678361
+  },
+  {
+    "hutName": "Annaberger Haus",
+    "hutId": 146,
+    "hutCountry": "AT",
+    "lat": 47.8735441,
+    "lng": 15.4212726
+  },
+  {
+    "hutName": "Antica Osteria Dazio",
+    "hutId": 657,
+    "hutCountry": "CH",
+    "lat": 46.4436282,
+    "lng": 8.6620394
+  },
+  {
+    "hutName": "Anton-Karg-Haus",
+    "hutId": 172,
+    "hutCountry": "AT",
+    "lat": 47.5800298,
+    "lng": 12.2772693
+  },
+  {
+    "hutName": "Arbenbiwak SAC",
+    "hutId": 381,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Ascher Hütte",
+    "hutId": 63,
+    "hutCountry": "AT",
+    "lat": 47.0657317,
+    "lng": 10.5048207
+  },
+  {
+    "hutName": "Augsburger Hütte",
+    "hutId": 235,
+    "hutCountry": "AT",
+    "lat": 47.1664074,
+    "lng": 10.4936758
+  },
+  {
+    "hutName": "Äugstenhütte",
+    "hutId": 589,
+    "hutCountry": "CH",
+    "lat": 47.0272895,
+    "lng": 9.1065193
+  },
+  {
+    "hutName": "August-Schuster-Haus",
+    "hutId": 613,
+    "hutCountry": "DE",
+    "lat": 47.5837485,
+    "lng": 10.9924332
+  },
+  {
+    "hutName": "Austria-Hütte",
+    "hutId": 262,
+    "hutCountry": "AT",
+    "lat": 47.4431087,
+    "lng": 13.6192758
+  },
+  {
+    "hutName": "Bächlitalhütte SAC",
+    "hutId": 23,
+    "hutCountry": "CH",
+    "lat": 46.5869855,
+    "lng": 8.2826223
+  },
+  {
+    "hutName": "Badener Hütte",
+    "hutId": 401,
+    "hutCountry": "AT",
+    "lat": 47.0811168,
+    "lng": 12.4256052
+  },
+  {
+    "hutName": "Bad Kissinger Hütte",
+    "hutId": 174,
+    "hutCountry": "AT",
+    "lat": 47.5344291,
+    "lng": 10.5627023
+  },
+  {
+    "hutName": "Badushütte",
+    "hutId": 21,
+    "hutCountry": "CH",
+    "lat": 46.6365684,
+    "lng": 8.668408
+  },
+  {
+    "hutName": "Balmhornhütte SAC",
+    "hutId": 579,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Baltschiederklause SAC",
+    "hutId": 349,
+    "hutCountry": "CH",
+    "lat": 46.3639453,
+    "lng": 7.8783723
+  },
+  {
+    "hutName": "Barmer Hütte",
+    "hutId": 188,
+    "hutCountry": "AT",
+    "lat": 46.9171417,
+    "lng": 12.1689192
+  },
+  {
+    "hutName": "Bayreuther Hütte",
+    "hutId": 201,
+    "hutCountry": "AT",
+    "lat": 47.4451229,
+    "lng": 11.8208008
+  },
+  {
+    "hutName": "Berggasthaus Brüsti",
+    "hutId": 531,
+    "hutCountry": "CH",
+    "lat": 46.843138,
+    "lng": 8.6072555
+  },
+  {
+    "hutName": "Berghaus Alpenrösli",
+    "hutId": 347,
+    "hutCountry": "CH",
+    "lat": 46.8789173,
+    "lng": 9.8946572
+  },
+  {
+    "hutName": "Berghaus Alpiglen",
+    "hutId": 679,
+    "hutCountry": "CH",
+    "lat": 46.6004106,
+    "lng": 8.0038355
+  },
+  {
+    "hutName": "Berghaus Bäregg",
+    "hutId": 663,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Berghaus Kleinwalsertal",
+    "hutId": 438,
+    "hutCountry": "AT",
+    "lat": 47.3487648,
+    "lng": 10.1457565
+  },
+  {
+    "hutName": "Berghaus Männdlenen",
+    "hutId": 52,
+    "hutCountry": "CH",
+    "lat": 46.6689901,
+    "lng": 7.9688565
+  },
+  {
+    "hutName": "Bergheim Au",
+    "hutId": 99,
+    "hutCountry": "AT",
+    "lat": 47.3180883,
+    "lng": 9.9637892
+  },
+  {
+    "hutName": "Berghütte Hohsaas",
+    "hutId": 549,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Berglihütte SAC",
+    "hutId": 161,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Bergrestaurant Längfluh",
+    "hutId": 673,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Bergsteigerunterkunft Lauschige Ecke",
+    "hutId": 107,
+    "hutCountry": "DE",
+    "lat": 47.6220539,
+    "lng": 12.9752474
+  },
+  {
+    "hutName": "Berg- und Skiheim Brixen im Thale",
+    "hutId": 475,
+    "hutCountry": "AT",
+    "lat": 47.4541953,
+    "lng": 12.260467
+  },
+  {
+    "hutName": "Berg- und Skiheim Brixen im Thale - Ferienwohnung",
+    "hutId": 538,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Berliner Hütte",
+    "hutId": 105,
+    "hutCountry": "AT",
+    "lat": 47.0245254,
+    "lng": 11.8129045
+  },
+  {
+    "hutName": "Berta-Hütte",
+    "hutId": 649,
+    "hutCountry": "AT",
+    "lat": 46.5182439,
+    "lng": 13.9604568
+  },
+  {
+    "hutName": "Bettelwurf-Hütte",
+    "hutId": 72,
+    "hutCountry": "AT",
+    "lat": 47.33862,
+    "lng": 11.5075243
+  },
+  {
+    "hutName": "Biberacher Hütte",
+    "hutId": 222,
+    "hutCountry": "AT",
+    "lat": 47.2576487,
+    "lng": 10.0285062
+  },
+  {
+    "hutName": "Bifertenhütte AACB",
+    "hutId": 254,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Binntalhütte SAC",
+    "hutId": 264,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Bivacco Piano della Parete",
+    "hutId": 598,
+    "hutCountry": "CH",
+    "lat": 46.4382419,
+    "lng": 9.07951
+  },
+  {
+    "hutName": "Bivouac de l'Envers des Dorées",
+    "hutId": 288,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Biwak - Enzianhütte Rhön",
+    "hutId": 602,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Blaueishütte",
+    "hutId": 81,
+    "hutCountry": "DE",
+    "lat": 47.5868743,
+    "lng": 12.8694913
+  },
+  {
+    "hutName": "Blüemlisalphütte SAC",
+    "hutId": 1,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Bodenschneidhaus",
+    "hutId": 218,
+    "hutCountry": "DE",
+    "lat": 47.6777012,
+    "lng": 11.8390435
+  },
+  {
+    "hutName": "Bonn-Matreier Hütte",
+    "hutId": 485,
+    "hutCountry": "AT",
+    "lat": 47.0389946,
+    "lng": 12.4275225
+  },
+  {
+    "hutName": "Bordierhütte SAC",
+    "hutId": 156,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Bosruck-Hütte",
+    "hutId": 596,
+    "hutCountry": "AT",
+    "lat": 47.6393589,
+    "lng": 14.3664025
+  },
+  {
+    "hutName": "Brandenburger Haus",
+    "hutId": 181,
+    "hutCountry": "AT",
+    "lat": 46.8444158,
+    "lng": 10.7780091
+  },
+  {
+    "hutName": "Braunschweiger Hütte",
+    "hutId": 366,
+    "hutCountry": "AT",
+    "lat": 46.9352497,
+    "lng": 10.9091468
+  },
+  {
+    "hutName": "Bremer Hütte",
+    "hutId": 143,
+    "hutCountry": "AT",
+    "lat": 46.9949113,
+    "lng": 11.2633419
+  },
+  {
+    "hutName": "Britanniahütte SAC",
+    "hutId": 9,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Brixner Hütte",
+    "hutId": 389,
+    "hutCountry": "IT",
+    "lat": 46.9129491,
+    "lng": 11.6204098
+  },
+  {
+    "hutName": "Brochhütte",
+    "hutId": 206,
+    "hutCountry": "CH",
+    "lat": 46.6805349,
+    "lng": 8.1389528
+  },
+  {
+    "hutName": "Brunnenkopfhäuser",
+    "hutId": 286,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Brunnihütte",
+    "hutId": 37,
+    "hutCountry": "CH",
+    "lat": 46.841153,
+    "lng": 8.4109691
+  },
+  {
+    "hutName": "Brünnsteinhaus",
+    "hutId": 210,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Burghütte",
+    "hutId": 474,
+    "hutCountry": "CH",
+    "lat": 46.4509939,
+    "lng": 8.1353183
+  },
+  {
+    "hutName": "Cabane Arpitettaz CAS",
+    "hutId": 511,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane Balavaux",
+    "hutId": 413,
+    "hutCountry": "CH",
+    "lat": 46.155465,
+    "lng": 7.2778975
+  },
+  {
+    "hutName": "Cabane Barraud",
+    "hutId": 67,
+    "hutCountry": "CH",
+    "lat": 46.2843168,
+    "lng": 7.1630679
+  },
+  {
+    "hutName": "Cabane Bertol CAS",
+    "hutId": 681,
+    "hutCountry": "CH",
+    "lat": 46.0060315,
+    "lng": 7.5277859
+  },
+  {
+    "hutName": "Cabane de Bounavaux",
+    "hutId": 573,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane de Chanrion CAS",
+    "hutId": 379,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane de la Barmaz",
+    "hutId": 668,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane de la Dent Blanche CAS",
+    "hutId": 436,
+    "hutCountry": "CH",
+    "lat": 46.0202413,
+    "lng": 7.6009006
+  },
+  {
+    "hutName": "Cabane de l'A Neuve CAS",
+    "hutId": 277,
+    "hutCountry": "CH",
+    "lat": 45.9487969,
+    "lng": 7.0668806
+  },
+  {
+    "hutName": "Cabane de la Tourche",
+    "hutId": 569,
+    "hutCountry": "CH",
+    "lat": 46.2144514,
+    "lng": 7.0617258
+  },
+  {
+    "hutName": "Cabane de Prafleuri",
+    "hutId": 473,
+    "hutCountry": "CH",
+    "lat": 46.0749536,
+    "lng": 7.378779
+  },
+  {
+    "hutName": "Cabane de Saleinaz CAS",
+    "hutId": 382,
+    "hutCountry": "CH",
+    "lat": 45.9764385,
+    "lng": 7.0703669
+  },
+  {
+    "hutName": "Cabane des Audannes",
+    "hutId": 690,
+    "hutCountry": "CH",
+    "lat": 46.3434549,
+    "lng": 7.3840844
+  },
+  {
+    "hutName": "Cabane des Clés",
+    "hutId": 575,
+    "hutCountry": "CH",
+    "lat": 46.5678259,
+    "lng": 7.0248402
+  },
+  {
+    "hutName": "Cabane des Diablerets CAS",
+    "hutId": 22,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane des Dix CAS",
+    "hutId": 10,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane des Marindes",
+    "hutId": 574,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane de Sorniot",
+    "hutId": 566,
+    "hutCountry": "CH",
+    "lat": 46.1693151,
+    "lng": 7.0949146
+  },
+  {
+    "hutName": "Cabane d’Essertze",
+    "hutId": 394,
+    "hutCountry": "CH",
+    "lat": 46.1480289,
+    "lng": 7.3719862
+  },
+  {
+    "hutName": "Cabane des Vignettes CAS",
+    "hutId": 226,
+    "hutCountry": "CH",
+    "lat": 45.9897933,
+    "lng": 7.4757407
+  },
+  {
+    "hutName": "Cabane de Tracuit CAS",
+    "hutId": 494,
+    "hutCountry": "CH",
+    "lat": 46.1303106,
+    "lng": 7.6794151
+  },
+  {
+    "hutName": "Cabane de Valsorey CAS",
+    "hutId": 400,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane d'Orny CAS",
+    "hutId": 279,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane du Carroz",
+    "hutId": 406,
+    "hutCountry": "CH",
+    "lat": 46.4776531,
+    "lng": 6.1230996
+  },
+  {
+    "hutName": "Cabane du Fenestral",
+    "hutId": 333,
+    "hutCountry": "CH",
+    "lat": 46.1889618,
+    "lng": 7.1006444
+  },
+  {
+    "hutName": "Cabane du Mont d’Or",
+    "hutId": 311,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane du Mountet CAS",
+    "hutId": 278,
+    "hutCountry": "CH",
+    "lat": 46.0600459,
+    "lng": 7.6535412
+  },
+  {
+    "hutName": "Cabane du Trient CAS",
+    "hutId": 281,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cabane Rambert CAS",
+    "hutId": 280,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Calandahütte SAC",
+    "hutId": 176,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Camona da Maighels CAS",
+    "hutId": 26,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Camona da Punteglias CAS",
+    "hutId": 240,
+    "hutCountry": "CH",
+    "lat": 46.7772891,
+    "lng": 8.9560326
+  },
+  {
+    "hutName": "Capanna Adula CAS",
+    "hutId": 42,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Adula UTOE",
+    "hutId": 583,
+    "hutCountry": "CH",
+    "lat": 46.4953103,
+    "lng": 9.0076299
+  },
+  {
+    "hutName": "Capanna Alp da Canaa",
+    "hutId": 477,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Alpe Nimi",
+    "hutId": 479,
+    "hutCountry": "CH",
+    "lat": 46.2522284,
+    "lng": 8.7674816
+  },
+  {
+    "hutName": "Capanna Alpe Sponda",
+    "hutId": 447,
+    "hutCountry": "CH",
+    "lat": 46.4174484,
+    "lng": 8.7860283
+  },
+  {
+    "hutName": "Capanna Arena",
+    "hutId": 510,
+    "hutCountry": "CH",
+    "lat": 46.2325154,
+    "lng": 8.5146727
+  },
+  {
+    "hutName": "Capanna Barone",
+    "hutId": 590,
+    "hutCountry": "CH",
+    "lat": 46.3957467,
+    "lng": 8.7487565
+  },
+  {
+    "hutName": "Capanna Basòdino (Robiei) CAS",
+    "hutId": 8,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Bovarina",
+    "hutId": 49,
+    "hutCountry": "CH",
+    "lat": 46.5600374,
+    "lng": 8.8886047
+  },
+  {
+    "hutName": "Capanna Brogoldone",
+    "hutId": 565,
+    "hutCountry": "CH",
+    "lat": 46.2628804,
+    "lng": 9.0633216
+  },
+  {
+    "hutName": "Capanna Cadlimo CAS",
+    "hutId": 34,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Campo Tencia CAS",
+    "hutId": 36,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Cava",
+    "hutId": 580,
+    "hutCountry": "CH",
+    "lat": 46.3575123,
+    "lng": 9.0303116
+  },
+  {
+    "hutName": "Capanna Cimetta",
+    "hutId": 518,
+    "hutCountry": "CH",
+    "lat": 46.2006935,
+    "lng": 8.7888419
+  },
+  {
+    "hutName": "Capanna Corno-Gries CAS",
+    "hutId": 197,
+    "hutCountry": "CH",
+    "lat": 46.4670761,
+    "lng": 8.4100474
+  },
+  {
+    "hutName": "Capanna Cristallina CAS",
+    "hutId": 20,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna da l'Albigna CAS",
+    "hutId": 3,
+    "hutCountry": "CH",
+    "lat": 46.3299809,
+    "lng": 9.6552042
+  },
+  {
+    "hutName": "Capanna d'Alzasca CAS",
+    "hutId": 198,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna del Forno CAS",
+    "hutId": 18,
+    "hutCountry": "CH",
+    "lat": 46.3318278,
+    "lng": 9.7094145
+  },
+  {
+    "hutName": "Capanna di Sciora CAS",
+    "hutId": 7,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Gorda",
+    "hutId": 291,
+    "hutCountry": "CH",
+    "lat": 46.4980084,
+    "lng": 8.9109304
+  },
+  {
+    "hutName": "Capanna Grossalp",
+    "hutId": 478,
+    "hutCountry": "CH",
+    "lat": 46.316514,
+    "lng": 8.4712184
+  },
+  {
+    "hutName": "Capanna Monte Bar",
+    "hutId": 168,
+    "hutCountry": "CH",
+    "lat": 46.1000059,
+    "lng": 9.0139945
+  },
+  {
+    "hutName": "Capanna Motterascio CAS",
+    "hutId": 221,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Piansecco CAS",
+    "hutId": 399,
+    "hutCountry": "CH",
+    "lat": 46.4942636,
+    "lng": 8.471638
+  },
+  {
+    "hutName": "Capanna Poncione di Braga",
+    "hutId": 419,
+    "hutCountry": "CH",
+    "lat": 46.4288072,
+    "lng": 8.5723283
+  },
+  {
+    "hutName": "Capanna Quarnei",
+    "hutId": 582,
+    "hutCountry": "CH",
+    "lat": 46.473108,
+    "lng": 9.0236542
+  },
+  {
+    "hutName": "Capanna Sasc Furä CAS",
+    "hutId": 38,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Capanna Scaletta",
+    "hutId": 135,
+    "hutCountry": "CH",
+    "lat": 46.607752,
+    "lng": 8.9403119
+  },
+  {
+    "hutName": "Capanna Tomeo",
+    "hutId": 435,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Caré Alto \"Dante Ongari\"",
+    "hutId": 642,
+    "hutCountry": "IT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Carl-von-Stahl-Haus",
+    "hutId": 293,
+    "hutCountry": "AT",
+    "lat": 47.5746636,
+    "lng": 13.042542
+  },
+  {
+    "hutName": "Carschinahütte SAC",
+    "hutId": 46,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cavardirashütte SAC",
+    "hutId": 694,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cesa da Sett",
+    "hutId": 551,
+    "hutCountry": "CH",
+    "lat": 46.4154132,
+    "lng": 9.6369865
+  },
+  {
+    "hutName": "Chalet Lacombe",
+    "hutId": 68,
+    "hutCountry": "CH",
+    "lat": 46.3884758,
+    "lng": 7.0431052
+  },
+  {
+    "hutName": "Chalet La Source",
+    "hutId": 680,
+    "hutCountry": "CH",
+    "lat": 46.3470173,
+    "lng": 7.0116274
+  },
+  {
+    "hutName": "Chamanna Cluozza",
+    "hutId": 50,
+    "hutCountry": "CH",
+    "lat": 46.662883,
+    "lng": 10.1176294
+  },
+  {
+    "hutName": "Chamanna Coaz CAS",
+    "hutId": 386,
+    "hutCountry": "CH",
+    "lat": 46.383699,
+    "lng": 9.8354345
+  },
+  {
+    "hutName": "Chamanna da Boval CAS",
+    "hutId": 391,
+    "hutCountry": "CH",
+    "lat": 46.4152334,
+    "lng": 9.9250798
+  },
+  {
+    "hutName": "Chamanna d'Es-cha CAS",
+    "hutId": 25,
+    "hutCountry": "CH",
+    "lat": 46.6114618,
+    "lng": 9.9028343
+  },
+  {
+    "hutName": "Chamanna Georgy",
+    "hutId": 290,
+    "hutCountry": "CH",
+    "lat": 46.487145,
+    "lng": 9.955879
+  },
+  {
+    "hutName": "Chamanna Jenatsch CAS",
+    "hutId": 157,
+    "hutCountry": "CH",
+    "lat": 46.5293689,
+    "lng": 9.7244622
+  },
+  {
+    "hutName": "Chamonas d'Ela CAS",
+    "hutId": 182,
+    "hutCountry": "CH",
+    "lat": 46.6187533,
+    "lng": 9.6919102
+  },
+  {
+    "hutName": "Chamonna Lischana CAS",
+    "hutId": 78,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Chamonna Tuoi CAS",
+    "hutId": 33,
+    "hutCountry": "CH",
+    "lat": 46.8307354,
+    "lng": 10.1324884
+  },
+  {
+    "hutName": "Chelenalphütte SAC",
+    "hutId": 55,
+    "hutCountry": "CH",
+    "lat": 46.6717003,
+    "lng": 8.440072
+  },
+  {
+    "hutName": "Chesa sut Baselgia, Stugl",
+    "hutId": 554,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Clarahütte",
+    "hutId": 132,
+    "hutCountry": "AT",
+    "lat": 47.0159826,
+    "lng": 12.2458246
+  },
+  {
+    "hutName": "Clubhaus Metsch",
+    "hutId": 330,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Clubheim Fälensee",
+    "hutId": 363,
+    "hutCountry": "CH",
+    "lat": 47.2543337,
+    "lng": 9.425541
+  },
+  {
+    "hutName": "Clubhütte Grubenalp",
+    "hutId": 568,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cresta-Biwak SAC",
+    "hutId": 445,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Cufercalhütte SAC",
+    "hutId": 165,
+    "hutCountry": "CH",
+    "lat": 46.5933567,
+    "lng": 9.3590218
+  },
+  {
+    "hutName": "DAV-Haus-Spitzingsee",
+    "hutId": 256,
+    "hutCountry": "DE",
+    "lat": 47.6699842,
+    "lng": 11.8830873
+  },
+  {
+    "hutName": "Dessauer Hütte",
+    "hutId": 131,
+    "hutCountry": "DE",
+    "lat": 50.8974423,
+    "lng": 14.1365949
+  },
+  {
+    "hutName": "Doldenhornhütte SAC",
+    "hutId": 11,
+    "hutCountry": "CH",
+    "lat": 46.4869119,
+    "lng": 7.6974166
+  },
+  {
+    "hutName": "Domhütte SAC",
+    "hutId": 697,
+    "hutCountry": "CH",
+    "lat": 46.1027931,
+    "lng": 7.8176346
+  },
+  {
+    "hutName": "Dossenhütte SAC",
+    "hutId": 31,
+    "hutCountry": "CH",
+    "lat": 46.6551029,
+    "lng": 8.1694683
+  },
+  {
+    "hutName": "Douglasshütte",
+    "hutId": 393,
+    "hutCountry": "AT",
+    "lat": 47.0596841,
+    "lng": 9.7547653
+  },
+  {
+    "hutName": "Dreischusterhütte",
+    "hutId": 310,
+    "hutCountry": "IT",
+    "lat": 46.6745741,
+    "lng": 12.2972252
+  },
+  {
+    "hutName": "Dresdner Hütte",
+    "hutId": 692,
+    "hutCountry": "AT",
+    "lat": 46.9980762,
+    "lng": 11.1395354
+  },
+  {
+    "hutName": "Edelraute-Hütte",
+    "hutId": 493,
+    "hutCountry": "AT",
+    "lat": 47.4391404,
+    "lng": 14.4328057
+  },
+  {
+    "hutName": "Edelweiss-Hütte am Schneeberg",
+    "hutId": 125,
+    "hutCountry": "AT",
+    "lat": 47.7918,
+    "lng": 15.8148993
+  },
+  {
+    "hutName": "Elberfelder Hütte",
+    "hutId": 650,
+    "hutCountry": "AT",
+    "lat": 46.977887,
+    "lng": 12.7604244
+  },
+  {
+    "hutName": "Ennstaler-Hütte",
+    "hutId": 355,
+    "hutCountry": "AT",
+    "lat": 47.6193229,
+    "lng": 14.6762546
+  },
+  {
+    "hutName": "Enzianhütte/Rhön",
+    "hutId": 576,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Erfurter Hütte",
+    "hutId": 323,
+    "hutCountry": "AT",
+    "lat": 47.4416332,
+    "lng": 11.7629845
+  },
+  {
+    "hutName": "Essener und Rostocker Hütte",
+    "hutId": 133,
+    "hutCountry": "AT",
+    "lat": 47.0548428,
+    "lng": 12.2975934
+  },
+  {
+    "hutName": "E.-T.-Compton-Hütte",
+    "hutId": 488,
+    "hutCountry": "AT",
+    "lat": 46.696417,
+    "lng": 13.157283
+  },
+  {
+    "hutName": "Etzlihütte SAC",
+    "hutId": 398,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Falkenhütte",
+    "hutId": 354,
+    "hutCountry": "AT",
+    "lat": 47.3996116,
+    "lng": 11.4989327
+  },
+  {
+    "hutName": "Feichtau-Hütte",
+    "hutId": 383,
+    "hutCountry": "AT",
+    "lat": 47.8014925,
+    "lng": 14.317428
+  },
+  {
+    "hutName": "Fergenhütte SAC",
+    "hutId": 241,
+    "hutCountry": "CH",
+    "lat": 46.8690024,
+    "lng": 9.964753
+  },
+  {
+    "hutName": "Filmoor-Standschützen-Hütte",
+    "hutId": 489,
+    "hutCountry": "AT",
+    "lat": 46.6706761,
+    "lng": 12.5343588
+  },
+  {
+    "hutName": "Finsteraarhornhütte SAC",
+    "hutId": 213,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Fluhseehütte",
+    "hutId": 656,
+    "hutCountry": "CH",
+    "lat": 46.4112398,
+    "lng": 7.4994836
+  },
+  {
+    "hutName": "Fraganter Schutzhaus",
+    "hutId": 316,
+    "hutCountry": "AT",
+    "lat": 46.9509306,
+    "lng": 13.0277762
+  },
+  {
+    "hutName": "Franz-Fischer-Hütte",
+    "hutId": 317,
+    "hutCountry": "AT",
+    "lat": 47.1986303,
+    "lng": 13.3642744
+  },
+  {
+    "hutName": "Franz-Senn-Hütte",
+    "hutId": 675,
+    "hutCountry": "AT",
+    "lat": 47.0851444,
+    "lng": 11.1686902
+  },
+  {
+    "hutName": "Frassen-Hütte",
+    "hutId": 86,
+    "hutCountry": "AT",
+    "lat": 47.1898387,
+    "lng": 9.8274903
+  },
+  {
+    "hutName": "Frederic-Simms-Hütte",
+    "hutId": 686,
+    "hutCountry": "AT",
+    "lat": 47.2139922,
+    "lng": 10.3537904
+  },
+  {
+    "hutName": "Freiburgerhütte",
+    "hutId": 97,
+    "hutCountry": "AT",
+    "lat": 47.1626543,
+    "lng": 9.9906247
+  },
+  {
+    "hutName": "Freschen-Haus",
+    "hutId": 90,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Friedrichshafener Hütte",
+    "hutId": 217,
+    "hutCountry": "AT",
+    "lat": 46.9948227,
+    "lng": 10.215688
+  },
+  {
+    "hutName": "Friesenberghaus",
+    "hutId": 170,
+    "hutCountry": "AT",
+    "lat": 47.0676453,
+    "lng": 11.7020702
+  },
+  {
+    "hutName": "Fritz-Pflaum-Hütte",
+    "hutId": 528,
+    "hutCountry": "AT",
+    "lat": 47.5641919,
+    "lng": 12.3371852
+  },
+  {
+    "hutName": "Fritz-Putz Hütte",
+    "hutId": 83,
+    "hutCountry": "DE",
+    "lat": 47.5379298,
+    "lng": 10.7735745
+  },
+  {
+    "hutName": "Fromatthütte",
+    "hutId": 350,
+    "hutCountry": "CH",
+    "lat": 46.5457263,
+    "lng": 7.432787
+  },
+  {
+    "hutName": "Fründenhütte SAC",
+    "hutId": 19,
+    "hutCountry": "CH",
+    "lat": 46.4836384,
+    "lng": 7.7418703
+  },
+  {
+    "hutName": "Furtschaglhaus",
+    "hutId": 180,
+    "hutCountry": "AT",
+    "lat": 47.0009994,
+    "lng": 11.7473318
+  },
+  {
+    "hutName": "Fusshornbiwak",
+    "hutId": 454,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Gablonzer Hütte",
+    "hutId": 108,
+    "hutCountry": "AT",
+    "lat": 47.5330877,
+    "lng": 13.4797448
+  },
+  {
+    "hutName": "Galmihornhütte",
+    "hutId": 472,
+    "hutCountry": "CH",
+    "lat": 46.4892737,
+    "lng": 8.2428863
+  },
+  {
+    "hutName": "Gamshütte",
+    "hutId": 169,
+    "hutCountry": "AT",
+    "lat": 47.129761,
+    "lng": 11.7955919
+  },
+  {
+    "hutName": "Gamskarkogel-Hütte",
+    "hutId": 555,
+    "hutCountry": "AT",
+    "lat": 47.1610163,
+    "lng": 13.1584159
+  },
+  {
+    "hutName": "Gaudeamushütte",
+    "hutId": 100,
+    "hutCountry": "AT",
+    "lat": 47.5492431,
+    "lng": 12.3245114
+  },
+  {
+    "hutName": "Gauenhütte",
+    "hutId": 571,
+    "hutCountry": "AT",
+    "lat": 47.059288,
+    "lng": 9.8644015
+  },
+  {
+    "hutName": "Gaulihütte SAC",
+    "hutId": 27,
+    "hutCountry": "CH",
+    "lat": 46.6238103,
+    "lng": 8.216647
+  },
+  {
+    "hutName": "Geltenhütte SAC",
+    "hutId": 17,
+    "hutCountry": "CH",
+    "lat": 46.3696032,
+    "lng": 7.3390603
+  },
+  {
+    "hutName": "Geraerhütte",
+    "hutId": 110,
+    "hutCountry": "AT",
+    "lat": 47.0433656,
+    "lng": 11.628105
+  },
+  {
+    "hutName": "Giessener Hütte",
+    "hutId": 563,
+    "hutCountry": "AT",
+    "lat": 46.9924729,
+    "lng": 13.328877
+  },
+  {
+    "hutName": "Glattalphütte SAC",
+    "hutId": 39,
+    "hutCountry": "CH",
+    "lat": 46.9167726,
+    "lng": 8.874853
+  },
+  {
+    "hutName": "Glecksteinhütte SAC",
+    "hutId": 2,
+    "hutCountry": "CH",
+    "lat": 46.6251082,
+    "lng": 8.096516
+  },
+  {
+    "hutName": "Gleiwitzer Hütte",
+    "hutId": 223,
+    "hutCountry": "AT",
+    "lat": 47.2182677,
+    "lng": 12.7689951
+  },
+  {
+    "hutName": "Glorer Hütte",
+    "hutId": 342,
+    "hutCountry": "AT",
+    "lat": 47.0310066,
+    "lng": 12.7155279
+  },
+  {
+    "hutName": "Glungezer-Hütte",
+    "hutId": 62,
+    "hutCountry": "AT",
+    "lat": 47.2097335,
+    "lng": 11.5268613
+  },
+  {
+    "hutName": "Goiserer Hütte",
+    "hutId": 106,
+    "hutCountry": "AT",
+    "lat": 47.6208101,
+    "lng": 13.5615141
+  },
+  {
+    "hutName": "Gollinghütte",
+    "hutId": 410,
+    "hutCountry": "AT",
+    "lat": 47.2864733,
+    "lng": 13.7693946
+  },
+  {
+    "hutName": "Göppinger Hütte",
+    "hutId": 183,
+    "hutCountry": "AT",
+    "lat": 47.2147959,
+    "lng": 10.0459092
+  },
+  {
+    "hutName": "Grassenbiwak SAC",
+    "hutId": 567,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Greizer Hütte",
+    "hutId": 122,
+    "hutCountry": "AT",
+    "lat": 47.0433168,
+    "lng": 11.8857099
+  },
+  {
+    "hutName": "Grialetsch-Hütte SAC",
+    "hutId": 444,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Grubenberghütte",
+    "hutId": 196,
+    "hutCountry": "CH",
+    "lat": 46.5493166,
+    "lng": 7.2520609
+  },
+  {
+    "hutName": "Gruebenhütte AACBs",
+    "hutId": 312,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Gruttenhütte",
+    "hutId": 154,
+    "hutCountry": "AT",
+    "lat": 47.5535659,
+    "lng": 12.311062
+  },
+  {
+    "hutName": "Gspaltenhornhütte SAC",
+    "hutId": 44,
+    "hutCountry": "CH",
+    "lat": 46.5126918,
+    "lng": 7.8102627
+  },
+  {
+    "hutName": "Gufferthütte",
+    "hutId": 148,
+    "hutCountry": "AT",
+    "lat": 47.5815544,
+    "lng": 11.7994426
+  },
+  {
+    "hutName": "Guggihütte SAC",
+    "hutId": 665,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Guttenberg-Haus",
+    "hutId": 260,
+    "hutCountry": "AT",
+    "lat": 48.2362455,
+    "lng": 16.3350334
+  },
+  {
+    "hutName": "Habsburg-Haus",
+    "hutId": 424,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Haindlkar-Hütte",
+    "hutId": 492,
+    "hutCountry": "AT",
+    "lat": 47.5670515,
+    "lng": 14.6118748
+  },
+  {
+    "hutName": "Hallerangerhaus",
+    "hutId": 82,
+    "hutCountry": "AT",
+    "lat": 47.3547497,
+    "lng": 11.477195
+  },
+  {
+    "hutName": "Hannoverhaus",
+    "hutId": 121,
+    "hutCountry": "AT",
+    "lat": 47.040632,
+    "lng": 13.2155632
+  },
+  {
+    "hutName": "Hanslberghütte",
+    "hutId": 537,
+    "hutCountry": "DE",
+    "lat": 48.9527736,
+    "lng": 12.0057472
+  },
+  {
+    "hutName": "Hans Wödlhütte",
+    "hutId": 504,
+    "hutCountry": "AT",
+    "lat": 47.3608886,
+    "lng": 13.8169071
+  },
+  {
+    "hutName": "Haus Don Bosco",
+    "hutId": 611,
+    "hutCountry": "DE",
+    "lat": 50.1389233,
+    "lng": 7.1838081
+  },
+  {
+    "hutName": "Haus und Hütte Hammer",
+    "hutId": 282,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Haus Unken",
+    "hutId": 610,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Haus Wäldele",
+    "hutId": 439,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Heidelberger Hütte",
+    "hutId": 456,
+    "hutCountry": "CH",
+    "lat": 46.9097394,
+    "lng": 10.2596065
+  },
+  {
+    "hutName": "Heinrich-Hueter-Hütte",
+    "hutId": 89,
+    "hutCountry": "AT",
+    "lat": 47.0788249,
+    "lng": 9.7837992
+  },
+  {
+    "hutName": "Heinrich-Schwaiger-Haus",
+    "hutId": 152,
+    "hutCountry": "AT",
+    "lat": 47.1626593,
+    "lng": 12.7388572
+  },
+  {
+    "hutName": "Hess-Hütte",
+    "hutId": 306,
+    "hutCountry": "AT",
+    "lat": 47.5613519,
+    "lng": 14.6521343
+  },
+  {
+    "hutName": "Hexenseehütte",
+    "hutId": 377,
+    "hutCountry": "AT",
+    "lat": 47.0187678,
+    "lng": 10.4810739
+  },
+  {
+    "hutName": "Hildesheimer Hütte",
+    "hutId": 369,
+    "hutCountry": "AT",
+    "lat": 46.9660984,
+    "lng": 11.1190295
+  },
+  {
+    "hutName": "Hinterbalmhütte",
+    "hutId": 496,
+    "hutCountry": "CH",
+    "lat": 46.7795427,
+    "lng": 8.7984837
+  },
+  {
+    "hutName": "Hochfeilerhütte",
+    "hutId": 257,
+    "hutCountry": "IT",
+    "lat": 46.9621798,
+    "lng": 11.7084663
+  },
+  {
+    "hutName": "Hochjoch Hospiz",
+    "hutId": 370,
+    "hutCountry": "AT",
+    "lat": 46.8251619,
+    "lng": 10.8338847
+  },
+  {
+    "hutName": "Hochlecken-Haus",
+    "hutId": 343,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Hochschober-Hütte",
+    "hutId": 356,
+    "hutCountry": "AT",
+    "lat": 46.925163,
+    "lng": 12.6994479
+  },
+  {
+    "hutName": "Hochweißstein-Haus",
+    "hutId": 328,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Hofalm-Hütte",
+    "hutId": 503,
+    "hutCountry": "AT",
+    "lat": 47.7838098,
+    "lng": 15.541909
+  },
+  {
+    "hutName": "Hofpürgl-Hütte",
+    "hutId": 111,
+    "hutCountry": "AT",
+    "lat": 47.4822203,
+    "lng": 13.5190326
+  },
+  {
+    "hutName": "Hohenzollernhaus",
+    "hutId": 612,
+    "hutCountry": "AT",
+    "lat": 46.9020017,
+    "lng": 10.6347837
+  },
+  {
+    "hutName": "Hohganthütte",
+    "hutId": 24,
+    "hutCountry": "CH",
+    "lat": 46.7825909,
+    "lng": 7.9060931
+  },
+  {
+    "hutName": "Hollandiahütte SAC",
+    "hutId": 374,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Höllentalangerhütte",
+    "hutId": 73,
+    "hutCountry": "DE",
+    "lat": 47.4379216,
+    "lng": 11.0251602
+  },
+  {
+    "hutName": "Hubertus-Haus",
+    "hutId": 425,
+    "hutCountry": "AT",
+    "lat": 47.4509808,
+    "lng": 12.3890855
+  },
+  {
+    "hutName": "Hüfihütte SAC",
+    "hutId": 388,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Hundsteinhütte SAC",
+    "hutId": 32,
+    "hutCountry": "CH",
+    "lat": 47.2548211,
+    "lng": 9.4222356
+  },
+  {
+    "hutName": "Hüttenrunde Gipfelwege",
+    "hutId": 526,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Igloo des Pantalons Blancs",
+    "hutId": 53,
+    "hutCountry": "CH",
+    "lat": 46.0405376,
+    "lng": 7.3685212
+  },
+  {
+    "hutName": "Ignaz-Mattis-Hütte",
+    "hutId": 577,
+    "hutCountry": "AT",
+    "lat": 47.2848356,
+    "lng": 13.6485881
+  },
+  {
+    "hutName": "Ingolstädter Haus",
+    "hutId": 144,
+    "hutCountry": "AT",
+    "lat": 47.5015969,
+    "lng": 12.8870615
+  },
+  {
+    "hutName": "Innsbrucker Hütte",
+    "hutId": 320,
+    "hutCountry": "AT",
+    "lat": 47.0432175,
+    "lng": 11.3108033
+  },
+  {
+    "hutName": "Ischler Hütte",
+    "hutId": 556,
+    "hutCountry": "AT",
+    "lat": 47.6998711,
+    "lng": 13.7606292
+  },
+  {
+    "hutName": "Jamtalhütte",
+    "hutId": 191,
+    "hutCountry": "AT",
+    "lat": 46.88652,
+    "lng": 10.1765111
+  },
+  {
+    "hutName": "Jonsdorfer Hütte",
+    "hutId": 258,
+    "hutCountry": "DE",
+    "lat": 50.851534,
+    "lng": 14.6950643
+  },
+  {
+    "hutName": "Jugendbildungsstätte Winterraum",
+    "hutId": 344,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Julius-Seitner-Hütte",
+    "hutId": 147,
+    "hutCountry": "AT",
+    "lat": 47.9599915,
+    "lng": 15.4410079
+  },
+  {
+    "hutName": "Kaltenberghütte",
+    "hutId": 95,
+    "hutCountry": "AT",
+    "lat": 47.1191874,
+    "lng": 10.1432022
+  },
+  {
+    "hutName": "Kampthaler-Hütte",
+    "hutId": 177,
+    "hutCountry": "AT",
+    "lat": 48.1316111,
+    "lng": 16.199298
+  },
+  {
+    "hutName": "Kärlingerhaus",
+    "hutId": 195,
+    "hutCountry": "DE",
+    "lat": 47.4955057,
+    "lng": 12.9374155
+  },
+  {
+    "hutName": "Karl-Stein-Hütte",
+    "hutId": 461,
+    "hutCountry": "DE",
+    "lat": 50.959958,
+    "lng": 14.059585
+  },
+  {
+    "hutName": "Karl-von-Edel-Hütte",
+    "hutId": 203,
+    "hutCountry": "AT",
+    "lat": 47.1305221,
+    "lng": 11.8974746
+  },
+  {
+    "hutName": "Karwendelhaus",
+    "hutId": 87,
+    "hutCountry": "AT",
+    "lat": 47.4272609,
+    "lng": 11.4215851
+  },
+  {
+    "hutName": "Kasseler Hütte (im Zillertal)",
+    "hutId": 178,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Kaufbeurer Haus",
+    "hutId": 677,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Kaunergrathütte",
+    "hutId": 271,
+    "hutCountry": "AT",
+    "lat": 46.993956,
+    "lng": 10.8069929
+  },
+  {
+    "hutName": "Keinprecht-Hütte",
+    "hutId": 669,
+    "hutCountry": "AT",
+    "lat": 47.2746236,
+    "lng": 13.6931161
+  },
+  {
+    "hutName": "Kelchalm (Bochumer Hütte)",
+    "hutId": 468,
+    "hutCountry": "AT",
+    "lat": 47.3865515,
+    "lng": 12.464668
+  },
+  {
+    "hutName": "Kellerjoch-Hütte",
+    "hutId": 415,
+    "hutCountry": "AT",
+    "lat": 47.3165485,
+    "lng": 11.7647889
+  },
+  {
+    "hutName": "Kesch-Hütte SAC",
+    "hutId": 4,
+    "hutCountry": "CH",
+    "lat": 46.6451653,
+    "lng": 9.8751927
+  },
+  {
+    "hutName": "Klagenfurter Hütte",
+    "hutId": 597,
+    "hutCountry": "AT",
+    "lat": 46.4468626,
+    "lng": 14.1830532
+  },
+  {
+    "hutName": "Klostertaler Umwelthütte",
+    "hutId": 79,
+    "hutCountry": "AT",
+    "lat": 46.8811563,
+    "lng": 10.0660572
+  },
+  {
+    "hutName": "Knorrhütte",
+    "hutId": 149,
+    "hutCountry": "DE",
+    "lat": 47.4100105,
+    "lng": 11.012732
+  },
+  {
+    "hutName": "Konkordiahütte SAC",
+    "hutId": 12,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Konstanzer Hütte",
+    "hutId": 502,
+    "hutCountry": "AT",
+    "lat": 47.0695001,
+    "lng": 10.1889277
+  },
+  {
+    "hutName": "Kreuzeckhaus",
+    "hutId": 373,
+    "hutCountry": "DE",
+    "lat": 47.4522281,
+    "lng": 11.0662053
+  },
+  {
+    "hutName": "Kröntenhütte SAC",
+    "hutId": 274,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Kürsinger-Hütte",
+    "hutId": 292,
+    "hutCountry": "AT",
+    "lat": 47.1227537,
+    "lng": 12.2998831
+  },
+  {
+    "hutName": "La Borbuintze",
+    "hutId": 64,
+    "hutCountry": "CH",
+    "lat": 46.512747,
+    "lng": 6.950682
+  },
+  {
+    "hutName": "Lämmerenhütte SAC",
+    "hutId": 453,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Lamsenjochhütte",
+    "hutId": 437,
+    "hutCountry": "AT",
+    "lat": 47.3800526,
+    "lng": 11.6035623
+  },
+  {
+    "hutName": "Landsberger Hütte",
+    "hutId": 215,
+    "hutCountry": "AT",
+    "lat": 47.4441455,
+    "lng": 10.5144419
+  },
+  {
+    "hutName": "Langtalereckhütte",
+    "hutId": 365,
+    "hutCountry": "AT",
+    "lat": 46.8286738,
+    "lng": 10.9918976
+  },
+  {
+    "hutName": "Lauteraarhütte SAC",
+    "hutId": 558,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Leglerhütte SAC",
+    "hutId": 13,
+    "hutCountry": "CH",
+    "lat": 46.927069,
+    "lng": 9.08051
+  },
+  {
+    "hutName": "Lenggrieser Hütte",
+    "hutId": 139,
+    "hutCountry": "DE",
+    "lat": 47.6518482,
+    "lng": 11.631137
+  },
+  {
+    "hutName": "Lidernenhütte SAC",
+    "hutId": 5,
+    "hutCountry": "CH",
+    "lat": 46.93517,
+    "lng": 8.6926327
+  },
+  {
+    "hutName": "Lienzer Hütte",
+    "hutId": 684,
+    "hutCountry": "AT",
+    "lat": 46.9348077,
+    "lng": 12.7465478
+  },
+  {
+    "hutName": "Lindauer Hütte",
+    "hutId": 297,
+    "hutCountry": "AT",
+    "lat": 47.0344308,
+    "lng": 9.8356305
+  },
+  {
+    "hutName": "Lizumer Hütte",
+    "hutId": 123,
+    "hutCountry": "AT",
+    "lat": 47.1667317,
+    "lng": 11.640461
+  },
+  {
+    "hutName": "Lobhornhütte",
+    "hutId": 243,
+    "hutCountry": "CH",
+    "lat": 46.6184883,
+    "lng": 7.8689998
+  },
+  {
+    "hutName": "Lonza Biwak",
+    "hutId": 548,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Lucknerhütte",
+    "hutId": 578,
+    "hutCountry": "AT",
+    "lat": 47.0396537,
+    "lng": 12.6905437
+  },
+  {
+    "hutName": "Ludwigsburger Hütte",
+    "hutId": 546,
+    "hutCountry": "AT",
+    "lat": 47.1147006,
+    "lng": 10.8235629
+  },
+  {
+    "hutName": "Mandron \"Città di Trento\"",
+    "hutId": 641,
+    "hutCountry": "IT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Mannheimer Hütte",
+    "hutId": 654,
+    "hutCountry": "AT",
+    "lat": 47.0656847,
+    "lng": 9.693602
+  },
+  {
+    "hutName": "Marteller Hütte",
+    "hutId": 442,
+    "hutCountry": "IT",
+    "lat": 46.4696416,
+    "lng": 10.6730592
+  },
+  {
+    "hutName": "Martin-Busch-Hütte",
+    "hutId": 476,
+    "hutCountry": "AT",
+    "lat": 46.801081,
+    "lng": 10.8870794
+  },
+  {
+    "hutName": "Martinsmadhütte SAC",
+    "hutId": 615,
+    "hutCountry": "CH",
+    "lat": 46.8921049,
+    "lng": 9.188306
+  },
+  {
+    "hutName": "Medelserhütte SAC",
+    "hutId": 332,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Memminger Hütte",
+    "hutId": 140,
+    "hutCountry": "AT",
+    "lat": 47.2006124,
+    "lng": 10.4785995
+  },
+  {
+    "hutName": "Meraner Hütte",
+    "hutId": 126,
+    "hutCountry": "IT",
+    "lat": 46.6832716,
+    "lng": 11.2819484
+  },
+  {
+    "hutName": "Millstätter Hütte",
+    "hutId": 273,
+    "hutCountry": "AT",
+    "lat": 46.8482467,
+    "lng": 13.594238
+  },
+  {
+    "hutName": "Mischabelhütte AACZ",
+    "hutId": 420,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Mischabeljochbiwak SAC",
+    "hutId": 378,
+    "hutCountry": "CH",
+    "lat": 46.0742104,
+    "lng": 7.8658153
+  },
+  {
+    "hutName": "Mittellegihütte",
+    "hutId": 338,
+    "hutCountry": "CH",
+    "lat": 46.5833922,
+    "lng": 8.0225315
+  },
+  {
+    "hutName": "Mödlinger Hütte",
+    "hutId": 117,
+    "hutCountry": "AT",
+    "lat": 47.5291016,
+    "lng": 14.5530219
+  },
+  {
+    "hutName": "Mönchsjochhütte",
+    "hutId": 77,
+    "hutCountry": "CH",
+    "lat": 46.5547132,
+    "lng": 8.0056906
+  },
+  {
+    "hutName": "Monte Calino \"San Pietro\"",
+    "hutId": 651,
+    "hutCountry": "IT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Monte-Leone-Hütte SAC",
+    "hutId": 340,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Monte Rosa Hütte SAC",
+    "hutId": 6,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Müllerhütte - Rif. Cima Libera",
+    "hutId": 570,
+    "hutCountry": "IT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Münchner Haus",
+    "hutId": 150,
+    "hutCountry": "DE",
+    "lat": 47.4210523,
+    "lng": 10.9848781
+  },
+  {
+    "hutName": "Munt la Reita",
+    "hutId": 543,
+    "hutCountry": "CH",
+    "lat": 46.2817515,
+    "lng": 8.4826252
+  },
+  {
+    "hutName": "Muttekopf-Hütte",
+    "hutId": 160,
+    "hutCountry": "AT",
+    "lat": 47.2624562,
+    "lng": 10.669759
+  },
+  {
+    "hutName": "Muttseehütte SAC",
+    "hutId": 229,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Neue Bamberger Hütte",
+    "hutId": 116,
+    "hutCountry": "AT",
+    "lat": 47.3089191,
+    "lng": 12.150559
+  },
+  {
+    "hutName": "Neue Bonner Hütte",
+    "hutId": 162,
+    "hutCountry": "AT",
+    "lat": 47.0371785,
+    "lng": 13.679856
+  },
+  {
+    "hutName": "Neue Fürther Hütte",
+    "hutId": 385,
+    "hutCountry": "AT",
+    "lat": 47.1653438,
+    "lng": 12.4244494
+  },
+  {
+    "hutName": "Neue Heilbronner Hütte",
+    "hutId": 103,
+    "hutCountry": "AT",
+    "lat": 47.0072049,
+    "lng": 10.1389095
+  },
+  {
+    "hutName": "Neue Magdeburger Hütte",
+    "hutId": 129,
+    "hutCountry": "AT",
+    "lat": 47.2889977,
+    "lng": 11.2965958
+  },
+  {
+    "hutName": "Neue Prager Hütte",
+    "hutId": 58,
+    "hutCountry": "AT",
+    "lat": 47.1230986,
+    "lng": 12.3922602
+  },
+  {
+    "hutName": "Neue Regensburger Hütte",
+    "hutId": 275,
+    "hutCountry": "AT",
+    "lat": 47.0546884,
+    "lng": 11.1983283
+  },
+  {
+    "hutName": "Neue Reichenberger Hütte",
+    "hutId": 545,
+    "hutCountry": "AT",
+    "lat": 46.9713299,
+    "lng": 12.2793772
+  },
+  {
+    "hutName": "Neue Reutlinger Hütte",
+    "hutId": 96,
+    "hutCountry": "AT",
+    "lat": 47.0753318,
+    "lng": 10.1156262
+  },
+  {
+    "hutName": "Neue Thüringer Hütte",
+    "hutId": 237,
+    "hutCountry": "AT",
+    "lat": 47.1727531,
+    "lng": 12.3832205
+  },
+  {
+    "hutName": "Neue Traunsteiner Hütte",
+    "hutId": 452,
+    "hutCountry": "DE",
+    "lat": 47.6281918,
+    "lng": 12.8009068
+  },
+  {
+    "hutName": "Neunkirchner Hütte",
+    "hutId": 429,
+    "hutCountry": "AT",
+    "lat": 47.7476583,
+    "lng": 16.0013726
+  },
+  {
+    "hutName": "Niedersachsenhaus",
+    "hutId": 319,
+    "hutCountry": "AT",
+    "lat": 47.060508,
+    "lng": 13.0101624
+  },
+  {
+    "hutName": "Nördlinger Hütte",
+    "hutId": 202,
+    "hutCountry": "AT",
+    "lat": 47.3200076,
+    "lng": 11.2367982
+  },
+  {
+    "hutName": "Nürnberger Hütte",
+    "hutId": 124,
+    "hutCountry": "AT",
+    "lat": 46.993791,
+    "lng": 11.2178433
+  },
+  {
+    "hutName": "Oberaarjochhütte SAC",
+    "hutId": 15,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Oberaletschhütte SAC",
+    "hutId": 47,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Obere Maxlraineralm",
+    "hutId": 591,
+    "hutCountry": "DE",
+    "lat": 47.6578281,
+    "lng": 11.9164124
+  },
+  {
+    "hutName": "Oberetteshütte",
+    "hutId": 230,
+    "hutCountry": "IT",
+    "lat": 46.764809,
+    "lng": 10.7112037
+  },
+  {
+    "hutName": "Oberlandhütte",
+    "hutId": 138,
+    "hutCountry": "AT",
+    "lat": 47.3796156,
+    "lng": 12.3076208
+  },
+  {
+    "hutName": "Oberwalder-Hütte",
+    "hutId": 300,
+    "hutCountry": "AT",
+    "lat": 47.1053352,
+    "lng": 12.7155866
+  },
+  {
+    "hutName": "Oberzalimhütte",
+    "hutId": 655,
+    "hutCountry": "AT",
+    "lat": 47.0799283,
+    "lng": 9.6933702
+  },
+  {
+    "hutName": "Obstansersee-Hütte",
+    "hutId": 268,
+    "hutCountry": "AT",
+    "lat": 46.6843452,
+    "lng": 12.4938403
+  },
+  {
+    "hutName": "Olpererhütte",
+    "hutId": 119,
+    "hutCountry": "AT",
+    "lat": 47.0420135,
+    "lng": 11.6883677
+  },
+  {
+    "hutName": "Ostello Fusio",
+    "hutId": 482,
+    "hutCountry": "CH",
+    "lat": 46.4443469,
+    "lng": 8.6637453
+  },
+  {
+    "hutName": "Ostello GiovaniBosco",
+    "hutId": 585,
+    "hutCountry": "CH",
+    "lat": 46.3164906,
+    "lng": 8.4941566
+  },
+  {
+    "hutName": "Ostpreussenhütte",
+    "hutId": 617,
+    "hutCountry": "AT",
+    "lat": 47.460233,
+    "lng": 13.1160323
+  },
+  {
+    "hutName": "Ostwandlager",
+    "hutId": 536,
+    "hutCountry": "DE",
+    "lat": 47.5459708,
+    "lng": 12.9708789
+  },
+  {
+    "hutName": "Otto- Mayr-Hütte",
+    "hutId": 272,
+    "hutCountry": "AT",
+    "lat": 47.5093355,
+    "lng": 10.6187198
+  },
+  {
+    "hutName": "Passauer Hütte",
+    "hutId": 232,
+    "hutCountry": "AT",
+    "lat": 47.4742028,
+    "lng": 12.7503201
+  },
+  {
+    "hutName": "Peilstein-Haus",
+    "hutId": 430,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Peter-Wiechenthaler-Hütte",
+    "hutId": 141,
+    "hutCountry": "AT",
+    "lat": 47.4636723,
+    "lng": 12.8753428
+  },
+  {
+    "hutName": "Pfeis-Hütte",
+    "hutId": 179,
+    "hutCountry": "AT",
+    "lat": 47.3300007,
+    "lng": 11.4255644
+  },
+  {
+    "hutName": "Pforzheimer Hütte",
+    "hutId": 239,
+    "hutCountry": "AT",
+    "lat": 47.1547057,
+    "lng": 11.0726326
+  },
+  {
+    "hutName": "Plauener Hütte",
+    "hutId": 207,
+    "hutCountry": "AT",
+    "lat": 47.1183295,
+    "lng": 12.0961903
+  },
+  {
+    "hutName": "Porze-Hütte",
+    "hutId": 185,
+    "hutCountry": "AT",
+    "lat": 46.6596785,
+    "lng": 12.5822895
+  },
+  {
+    "hutName": "Potsdamer Hütte",
+    "hutId": 283,
+    "hutCountry": "AT",
+    "lat": 47.1429994,
+    "lng": 11.208735
+  },
+  {
+    "hutName": "Preintalerhütte",
+    "hutId": 402,
+    "hutCountry": "AT",
+    "lat": 47.3131012,
+    "lng": 13.8132502
+  },
+  {
+    "hutName": "Priel-Schutzhaus",
+    "hutId": 336,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Priener Hütte",
+    "hutId": 407,
+    "hutCountry": "DE",
+    "lat": 47.7019775,
+    "lng": 12.3278555
+  },
+  {
+    "hutName": "Prinz-Luitpoldhaus",
+    "hutId": 270,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Prova",
+    "hutId": 607,
+    "hutCountry": "IT",
+    "lat": 45.3983503,
+    "lng": 11.3001214
+  },
+  {
+    "hutName": "Pühringer-Hütte",
+    "hutId": 509,
+    "hutCountry": "AT",
+    "lat": 47.6871426,
+    "lng": 13.9665171
+  },
+  {
+    "hutName": "Radlseehütte",
+    "hutId": 285,
+    "hutCountry": "IT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Ramozhütte SAC",
+    "hutId": 246,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rastkogelhütte",
+    "hutId": 205,
+    "hutCountry": "AT",
+    "lat": 47.2321783,
+    "lng": 11.7884225
+  },
+  {
+    "hutName": "Refuge des Petoudes",
+    "hutId": 76,
+    "hutCountry": "CH",
+    "lat": 46.0200668,
+    "lng": 7.0111834
+  },
+  {
+    "hutName": "Refuge du lac de Derborence",
+    "hutId": 592,
+    "hutCountry": "CH",
+    "lat": 46.2798371,
+    "lng": 7.2144607
+  },
+  {
+    "hutName": "Refuge Giacomini",
+    "hutId": 335,
+    "hutCountry": "CH",
+    "lat": 46.2881733,
+    "lng": 7.1620853
+  },
+  {
+    "hutName": "Reichenhaller Haus",
+    "hutId": 666,
+    "hutCountry": "DE",
+    "lat": 47.7551028,
+    "lng": 12.8495662
+  },
+  {
+    "hutName": "Reintalangerhütte",
+    "hutId": 128,
+    "hutCountry": "DE",
+    "lat": 47.4052985,
+    "lng": 11.0356777
+  },
+  {
+    "hutName": "Richterhütte",
+    "hutId": 136,
+    "hutCountry": "AT",
+    "lat": 47.1241523,
+    "lng": 12.1340242
+  },
+  {
+    "hutName": "Rieder Hütte",
+    "hutId": 248,
+    "hutCountry": "AT",
+    "lat": 47.8040692,
+    "lng": 13.6766711
+  },
+  {
+    "hutName": "Riemannhaus",
+    "hutId": 145,
+    "hutCountry": "AT",
+    "lat": 47.4579863,
+    "lng": 12.9144773
+  },
+  {
+    "hutName": "Rieserfernerhütte",
+    "hutId": 412,
+    "hutCountry": "IT",
+    "lat": 46.8899977,
+    "lng": 12.0795047
+  },
+  {
+    "hutName": "Riffelseehütte",
+    "hutId": 171,
+    "hutCountry": "AT",
+    "lat": 46.9612305,
+    "lng": 10.8574856
+  },
+  {
+    "hutName": "Rifugio Alpe Compiett",
+    "hutId": 595,
+    "hutCountry": "CH",
+    "lat": 46.3537797,
+    "lng": 9.0199812
+  },
+  {
+    "hutName": "Rifugio Alpe Fontana",
+    "hutId": 539,
+    "hutCountry": "CH",
+    "lat": 46.4067398,
+    "lng": 8.7047324
+  },
+  {
+    "hutName": "Rifugio Alpe Masnée",
+    "hutId": 480,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rifugio Alpe Spluga",
+    "hutId": 481,
+    "hutCountry": "CH",
+    "lat": 46.3153005,
+    "lng": 8.6791983
+  },
+  {
+    "hutName": "Rifugio Biasagn",
+    "hutId": 594,
+    "hutCountry": "CH",
+    "lat": 46.3933481,
+    "lng": 9.0369766
+  },
+  {
+    "hutName": "Rifugio Garzonera",
+    "hutId": 698,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rifugio Giümela",
+    "hutId": 581,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rifugio Lago",
+    "hutId": 593,
+    "hutCountry": "CH",
+    "lat": 46.3537797,
+    "lng": 9.0199812
+  },
+  {
+    "hutName": "Rifugio la Reggia",
+    "hutId": 484,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rifugio Maria Luisa",
+    "hutId": 517,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rifugio Pian di Crest",
+    "hutId": 516,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rifugio Ribia",
+    "hutId": 483,
+    "hutCountry": "CH",
+    "lat": 46.2579698,
+    "lng": 8.5440054
+  },
+  {
+    "hutName": "Rifugio Saoseo CAS",
+    "hutId": 341,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rifugio Scaradra",
+    "hutId": 584,
+    "hutCountry": "CH",
+    "lat": 46.5557549,
+    "lng": 9.0059415
+  },
+  {
+    "hutName": "Ringelspitzhütte SAC",
+    "hutId": 514,
+    "hutCountry": "CH",
+    "lat": 46.8657966,
+    "lng": 9.3807114
+  },
+  {
+    "hutName": "Rotgüldensee-Hütte",
+    "hutId": 662,
+    "hutCountry": "AT",
+    "lat": 47.1010266,
+    "lng": 13.4120481
+  },
+  {
+    "hutName": "Rothornhütte SAC",
+    "hutId": 334,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Rotondohütte SAC",
+    "hutId": 404,
+    "hutCountry": "CH",
+    "lat": 46.5451769,
+    "lng": 8.4847713
+  },
+  {
+    "hutName": "Rotstockhütte",
+    "hutId": 69,
+    "hutCountry": "CH",
+    "lat": 46.5451558,
+    "lng": 7.8383217
+  },
+  {
+    "hutName": "Rottalhütte SAC",
+    "hutId": 498,
+    "hutCountry": "CH",
+    "lat": 46.5261199,
+    "lng": 7.944722
+  },
+  {
+    "hutName": "Rotwandhaus",
+    "hutId": 104,
+    "hutCountry": "DE",
+    "lat": 47.6461673,
+    "lng": 11.9351422
+  },
+  {
+    "hutName": "Rugghubelhütte SAC",
+    "hutId": 41,
+    "hutCountry": "CH",
+    "lat": 46.8461918,
+    "lng": 8.462786
+  },
+  {
+    "hutName": "Rüsselsheimer Hütte",
+    "hutId": 115,
+    "hutCountry": "AT",
+    "lat": 46.9941317,
+    "lng": 10.8881251
+  },
+  {
+    "hutName": "Saarbrücker Hütte",
+    "hutId": 309,
+    "hutCountry": "AT",
+    "lat": 46.8984401,
+    "lng": 10.0369258
+  },
+  {
+    "hutName": "Sägässähenki Jenisberg",
+    "hutId": 552,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Salbithütte SAC",
+    "hutId": 227,
+    "hutCountry": "CH",
+    "lat": 46.6764887,
+    "lng": 8.5515639
+  },
+  {
+    "hutName": "Salbitschijenbiwak SAC",
+    "hutId": 559,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Salm-Hütte",
+    "hutId": 159,
+    "hutCountry": "AT",
+    "lat": 47.0469796,
+    "lng": 12.7206124
+  },
+  {
+    "hutName": "Sardonahütte SAC",
+    "hutId": 486,
+    "hutCountry": "CH",
+    "lat": 46.9155822,
+    "lng": 9.2754864
+  },
+  {
+    "hutName": "Sarotla-Hütte",
+    "hutId": 88,
+    "hutCountry": "AT",
+    "lat": 47.1040379,
+    "lng": 9.7865586
+  },
+  {
+    "hutName": "Saupsdorfer Hütte",
+    "hutId": 101,
+    "hutCountry": "DE",
+    "lat": 50.9279827,
+    "lng": 14.3355197
+  },
+  {
+    "hutName": "Schalijochbiwak SAC",
+    "hutId": 348,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Schesaplana Hütte",
+    "hutId": 75,
+    "hutCountry": "CH",
+    "lat": 47.0440621,
+    "lng": 9.6837079
+  },
+  {
+    "hutName": "Schilthornhütte",
+    "hutId": 446,
+    "hutCountry": "CH",
+    "lat": 46.5700504,
+    "lng": 7.8627123
+  },
+  {
+    "hutName": "Schlernbödelehütte",
+    "hutId": 284,
+    "hutCountry": "IT",
+    "lat": 46.5221241,
+    "lng": 11.5836529
+  },
+  {
+    "hutName": "Schneealpen-Haus",
+    "hutId": 353,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Schneibsteinhaus",
+    "hutId": 327,
+    "hutCountry": "DE",
+    "lat": 47.5721471,
+    "lng": 13.0392486
+  },
+  {
+    "hutName": "Schönbielhütte SAC",
+    "hutId": 308,
+    "hutCountry": "CH",
+    "lat": 46.00198,
+    "lng": 7.6289566
+  },
+  {
+    "hutName": "Schönfeldhütte",
+    "hutId": 557,
+    "hutCountry": "DE",
+    "lat": 47.6650875,
+    "lng": 11.9061326
+  },
+  {
+    "hutName": "Schreckhornhütte SAC",
+    "hutId": 204,
+    "hutCountry": "CH",
+    "lat": 46.581869,
+    "lng": 8.098698
+  },
+  {
+    "hutName": "Schwarzenberghütte (DAV)",
+    "hutId": 562,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Schwarzensteinhütte (Rif. al Sasso Nero)",
+    "hutId": 685,
+    "hutCountry": "IT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Schwarzwasserhütte",
+    "hutId": 189,
+    "hutCountry": "AT",
+    "lat": 47.3311966,
+    "lng": 10.0871172
+  },
+  {
+    "hutName": "Seetalhütte SAC",
+    "hutId": 242,
+    "hutCountry": "CH",
+    "lat": 46.8739007,
+    "lng": 10.0094258
+  },
+  {
+    "hutName": "Seethalerhütte",
+    "hutId": 261,
+    "hutCountry": "AT",
+    "lat": 47.4736233,
+    "lng": 13.6127869
+  },
+  {
+    "hutName": "Sesvennahütte",
+    "hutId": 276,
+    "hutCountry": "IT",
+    "lat": 46.7345797,
+    "lng": 10.4354003
+  },
+  {
+    "hutName": "Sewenhütte SAC",
+    "hutId": 269,
+    "hutCountry": "CH",
+    "lat": 46.7466293,
+    "lng": 8.5210697
+  },
+  {
+    "hutName": "Sidelenhütte",
+    "hutId": 614,
+    "hutCountry": "CH",
+    "lat": 46.5974645,
+    "lng": 8.4267493
+  },
+  {
+    "hutName": "Silberhornhütte SAC",
+    "hutId": 515,
+    "hutCountry": "CH",
+    "lat": 46.549041,
+    "lng": 7.9335654
+  },
+  {
+    "hutName": "Sillianer Hütte",
+    "hutId": 466,
+    "hutCountry": "AT",
+    "lat": 46.7060448,
+    "lng": 12.4064187
+  },
+  {
+    "hutName": "Silvrettahütte SAC",
+    "hutId": 80,
+    "hutCountry": "CH",
+    "lat": 46.854525,
+    "lng": 10.0414382
+  },
+  {
+    "hutName": "Simony-Hütte",
+    "hutId": 219,
+    "hutCountry": "AT",
+    "lat": 47.5007983,
+    "lng": 13.6238846
+  },
+  {
+    "hutName": "Skihütte Elm",
+    "hutId": 405,
+    "hutCountry": "CH",
+    "lat": 46.8996094,
+    "lng": 9.1127059
+  },
+  {
+    "hutName": "Skihütte Obererbs",
+    "hutId": 397,
+    "hutCountry": "CH",
+    "lat": 46.8997799,
+    "lng": 9.1129021
+  },
+  {
+    "hutName": "Ski- und Ferienhaus Obergestelen",
+    "hutId": 417,
+    "hutCountry": "CH",
+    "lat": 46.5862948,
+    "lng": 7.4323169
+  },
+  {
+    "hutName": "Soiernhaus",
+    "hutId": 287,
+    "hutCountry": "DE",
+    "lat": 47.493748,
+    "lng": 11.3485937
+  },
+  {
+    "hutName": "Sölden-Hütte",
+    "hutId": 294,
+    "hutCountry": "AT",
+    "lat": 47.4841146,
+    "lng": 13.2903514
+  },
+  {
+    "hutName": "Sonnschienhütte",
+    "hutId": 469,
+    "hutCountry": "AT",
+    "lat": 47.5865761,
+    "lng": 15.0391052
+  },
+  {
+    "hutName": "Spannorthütte SAC",
+    "hutId": 244,
+    "hutCountry": "CH",
+    "lat": 46.7998126,
+    "lng": 8.5097965
+  },
+  {
+    "hutName": "Spitzmeilenhütte SAC",
+    "hutId": 682,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Spitzsteinhaus",
+    "hutId": 57,
+    "hutCountry": "AT",
+    "lat": 47.7044357,
+    "lng": 12.2432434
+  },
+  {
+    "hutName": "Staldenmaadhütte",
+    "hutId": 304,
+    "hutCountry": "CH",
+    "lat": 46.5959985,
+    "lng": 7.499591
+  },
+  {
+    "hutName": "Starkenburger Hütte",
+    "hutId": 693,
+    "hutCountry": "AT",
+    "lat": 47.1267656,
+    "lng": 11.279589
+  },
+  {
+    "hutName": "Staufner Haus",
+    "hutId": 85,
+    "hutCountry": "DE",
+    "lat": 47.4916478,
+    "lng": 10.0691961
+  },
+  {
+    "hutName": "Steinsee-Hütte",
+    "hutId": 497,
+    "hutCountry": "AT",
+    "lat": 47.2262055,
+    "lng": 10.5871738
+  },
+  {
+    "hutName": "Steinwaldhütte",
+    "hutId": 547,
+    "hutCountry": "DE",
+    "lat": 49.8775019,
+    "lng": 12.0354192
+  },
+  {
+    "hutName": "Stickler-Hütte",
+    "hutId": 691,
+    "hutCountry": "AT",
+    "lat": 47.1484316,
+    "lng": 13.3780615
+  },
+  {
+    "hutName": "Stockhornbiwak SAC",
+    "hutId": 527,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Stöhrhaus",
+    "hutId": 84,
+    "hutCountry": "DE",
+    "lat": 47.6931589,
+    "lng": 12.9806222
+  },
+  {
+    "hutName": "Straubinger Haus",
+    "hutId": 200,
+    "hutCountry": "AT",
+    "lat": 47.6203426,
+    "lng": 12.499518
+  },
+  {
+    "hutName": "Stripsenjoch-Haus",
+    "hutId": 184,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Stuttgarter Hütte",
+    "hutId": 192,
+    "hutCountry": "AT",
+    "lat": 47.1803392,
+    "lng": 10.2047032
+  },
+  {
+    "hutName": "Sudetendeutsche Hütte",
+    "hutId": 190,
+    "hutCountry": "AT",
+    "lat": 47.0493723,
+    "lng": 12.5762715
+  },
+  {
+    "hutName": "Sulzenauhütte",
+    "hutId": 648,
+    "hutCountry": "AT",
+    "lat": 46.9958246,
+    "lng": 11.1818639
+  },
+  {
+    "hutName": "Sunnehüsi",
+    "hutId": 326,
+    "hutCountry": "CH",
+    "lat": 46.7159204,
+    "lng": 7.9284754
+  },
+  {
+    "hutName": "Sustlihütte SAC",
+    "hutId": 525,
+    "hutCountry": "CH",
+    "lat": 46.7517064,
+    "lng": 8.4707938
+  },
+  {
+    "hutName": "Sylvan-Hütte",
+    "hutId": 387,
+    "hutCountry": "DE",
+    "lat": 49.9023938,
+    "lng": 9.4795297
+  },
+  {
+    "hutName": "Talherberge Zwieselstein",
+    "hutId": 495,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Tannheimer Hütte",
+    "hutId": 676,
+    "hutCountry": "AT",
+    "lat": 47.4956782,
+    "lng": 10.6196902
+  },
+  {
+    "hutName": "Taschachhaus",
+    "hutId": 231,
+    "hutCountry": "AT",
+    "lat": 46.9096146,
+    "lng": 10.8175131
+  },
+  {
+    "hutName": "Täschhütte SAC",
+    "hutId": 51,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Taubensteinhaus",
+    "hutId": 507,
+    "hutCountry": "DE",
+    "lat": 47.6607801,
+    "lng": 11.9254604
+  },
+  {
+    "hutName": "Terrihütte SAC",
+    "hutId": 16,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Testhütte Carolin",
+    "hutId": 587,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Theodor-Körner-Hütte",
+    "hutId": 403,
+    "hutCountry": "AT",
+    "lat": 47.505533,
+    "lng": 13.4782589
+  },
+  {
+    "hutName": "Tiefrastenhütte",
+    "hutId": 301,
+    "hutCountry": "IT",
+    "lat": 46.8762798,
+    "lng": 11.7816488
+  },
+  {
+    "hutName": "Tierberglihütte SAC",
+    "hutId": 305,
+    "hutCountry": "CH",
+    "lat": 46.7020307,
+    "lng": 8.4142126
+  },
+  {
+    "hutName": "Tigias Plang Faller",
+    "hutId": 553,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Tilisuna-Hütte",
+    "hutId": 91,
+    "hutCountry": "AT",
+    "lat": 47.0246906,
+    "lng": 9.8727675
+  },
+  {
+    "hutName": "Tölzer Hütte am Schafreuter",
+    "hutId": 163,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Topalihütte SAC",
+    "hutId": 166,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Totalp-Hütte",
+    "hutId": 92,
+    "hutCountry": "AT",
+    "lat": 47.0526873,
+    "lng": 9.7270331
+  },
+  {
+    "hutName": "Traunsteiner Skihütte/ Winklmoosalm",
+    "hutId": 324,
+    "hutCountry": "DE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Treschhütte SAC",
+    "hutId": 688,
+    "hutCountry": "CH",
+    "lat": 46.7185828,
+    "lng": 8.6494662
+  },
+  {
+    "hutName": "Tschiervahütte SAC",
+    "hutId": 487,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Tübinger Hütte",
+    "hutId": 236,
+    "hutCountry": "AT",
+    "lat": 46.9116897,
+    "lng": 10.0034938
+  },
+  {
+    "hutName": "Turtmannhütte SAC",
+    "hutId": 530,
+    "hutCountry": "CH",
+    "lat": 46.1601324,
+    "lng": 7.6994842
+  },
+  {
+    "hutName": "Tutzinger Hütte",
+    "hutId": 212,
+    "hutCountry": "DE",
+    "lat": 47.6577031,
+    "lng": 11.4624291
+  },
+  {
+    "hutName": "Valentinalm",
+    "hutId": 396,
+    "hutCountry": "AT",
+    "lat": 46.6232192,
+    "lng": 12.9435031
+  },
+  {
+    "hutName": "Vermigel",
+    "hutId": 318,
+    "hutCountry": "CH",
+    "lat": 46.5994144,
+    "lng": 8.6597736
+  },
+  {
+    "hutName": "Voisthaler-Hütte",
+    "hutId": 490,
+    "hutCountry": "AT",
+    "lat": 47.6122591,
+    "lng": 15.180956
+  },
+  {
+    "hutName": "Voralphütte SAC",
+    "hutId": 259,
+    "hutCountry": "CH",
+    "lat": 46.6905424,
+    "lng": 8.4877432
+  },
+  {
+    "hutName": "Wanderheim Kreuzmoos",
+    "hutId": 224,
+    "hutCountry": "DE",
+    "lat": 48.189633,
+    "lng": 7.9768048
+  },
+  {
+    "hutName": "Wangenitzsee-Hütte",
+    "hutId": 683,
+    "hutCountry": "AT",
+    "lat": 46.9304201,
+    "lng": 12.7997977
+  },
+  {
+    "hutName": "Watzmannhaus",
+    "hutId": 151,
+    "hutCountry": "DE",
+    "lat": 47.5712778,
+    "lng": 12.9338406
+  },
+  {
+    "hutName": "Weidener Hütte",
+    "hutId": 216,
+    "hutCountry": "AT",
+    "lat": 47.2236832,
+    "lng": 11.7085683
+  },
+  {
+    "hutName": "Weisshornhütte SAC",
+    "hutId": 672,
+    "hutCountry": "CH",
+    "lat": 46.0859641,
+    "lng": 7.7435851
+  },
+  {
+    "hutName": "Weissmieshütten SAC",
+    "hutId": 209,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Westfalenhaus",
+    "hutId": 541,
+    "hutCountry": "AT",
+    "lat": 47.1079389,
+    "lng": 11.1000843
+  },
+  {
+    "hutName": "Wiesbadener Hütte",
+    "hutId": 234,
+    "hutCountry": "AT",
+    "lat": 46.8682814,
+    "lng": 10.116285
+  },
+  {
+    "hutName": "Wildhornhütte SAC",
+    "hutId": 164,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Wildstrubelhütte SAC",
+    "hutId": 65,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Windegghütte SAC",
+    "hutId": 214,
+    "hutCountry": "CH",
+    "lat": 46.6949918,
+    "lng": 8.3483907
+  },
+  {
+    "hutName": "Windgällenhütte AACZ",
+    "hutId": 45,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Winteregghütte",
+    "hutId": 263,
+    "hutCountry": "CH",
+    "lat": 46.4604067,
+    "lng": 7.6499369
+  },
+  {
+    "hutName": "Wolayersee-Hütte",
+    "hutId": 267,
+    "hutCountry": "AT",
+    "lat": 46.6123391,
+    "lng": 12.8671072
+  },
+  {
+    "hutName": "Wolfratshauser Hütte",
+    "hutId": 372,
+    "hutCountry": "AT",
+    "lat": 47.391143,
+    "lng": 10.8487784
+  },
+  {
+    "hutName": "Wormser Hütte",
+    "hutId": 667,
+    "hutCountry": "AT",
+    "lat": 47.0637455,
+    "lng": 9.974679
+  },
+  {
+    "hutName": "Würgauer Haus",
+    "hutId": 520,
+    "hutCountry": "DE",
+    "lat": 49.9821369,
+    "lng": 11.0898418
+  },
+  {
+    "hutName": "Ybbstaler-Hütte",
+    "hutId": 253,
+    "hutCountry": "AT",
+    "lat": 47.8076109,
+    "lng": 15.0250964
+  },
+  {
+    "hutName": "Zapporthütte SAC",
+    "hutId": 371,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Zeller-Hütte",
+    "hutId": 211,
+    "hutCountry": "AT",
+    "lat": 47.6783508,
+    "lng": 14.2266999
+  },
+  {
+    "hutName": "Zeppezauer-Haus",
+    "hutId": 295,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Zittauer Hütte",
+    "hutId": 266,
+    "hutCountry": "AT",
+    "lat": 47.1628104,
+    "lng": 12.1242619
+  },
+  {
+    "hutName": "Zittel-Haus",
+    "hutId": 695,
+    "hutCountry": "AT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Zollnersee-Hütte",
+    "hutId": 109,
+    "hutCountry": "AT",
+    "lat": 46.6054554,
+    "lng": 13.070744
+  },
+  {
+    "hutName": "Zsigmondyhütte (Rif. Comici)",
+    "hutId": 337,
+    "hutCountry": "IT",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "hutName": "Zwinglipasshütte",
+    "hutId": 30,
+    "hutCountry": "CH",
+    "lat": 47.2332447,
+    "lng": 9.3761397
+  },
+  {
+    "hutName": "ZZZ TEST Monbijouhütte",
+    "hutId": 346,
+    "hutCountry": "CH",
+    "lat": null,
+    "lng": null
+  }
+]
