@@ -1,6 +1,9 @@
 
 const API_KEY = '__MAPY_API_KEY__';
-const AVAILABILITY_ENDPOINT = '__NETLIFY_FUNCTION_URL__';
+const AVAILABILITY_ENDPOINT = location.hostname === 'localhost'
+  ? 'http://localhost:8888/.netlify/functions/getHutAvailability'
+  : '__NETLIFY_FUNCTION_URL__'; // will be replaced during GitHub Actions deploy
+
 
 const map = L.map('map').setView([47.5, 13.3], 8);
 
@@ -44,9 +47,11 @@ fetch('huts_with_coords.json')
       marker.bindPopup(`<b>${hut.hutName}</b><br><em>Loading availability...</em>`, { autoPan: false });
 
       marker.on('click', () => {
+        console.log("Fetching hut ID:", hut.hutId);
         fetch(`${AVAILABILITY_ENDPOINT}?hutId=${hut.hutId}`)
           .then(res => res.json())
           .then(data => {
+            console.log("API response:", data);
             let html = `<b>${hut.hutName}</b><br><div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:5px;">`;
             data.forEach(day => {
               const beds = day.freeBeds;
