@@ -37,8 +37,8 @@ jobs:
         run: |
           sed -i "s|__MAPY_API_KEY__|${{ secrets.MAPY_API_KEY }}|g" map.js
       - name: Inject Netlify Function URL
-          run: |
-            sed -i "s|__NETLIFY_FUNCTION_URL__|${{ secrets.NETLIFY_FUNCTION_URL }}|g" map.js
+        run: |
+          sed -i "s|__NETLIFY_FUNCTION_URL__|${{ secrets.NETLIFY_FUNCTION_URL }}|g" map.js
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
