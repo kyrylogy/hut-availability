@@ -1,4 +1,4 @@
-const API_KEY = '_MAPY_API_KEY_'; // Replace with your actual Mapy.cz API key
+const API_KEY = '__MAPY_API_KEY__'; // Replace with your actual Mapy.cz API key
 const AVAILABILITY_ENDPOINT = location.hostname === 'localhost'
   ? 'http://localhost:8888/.netlify/functions/getHutAvailability'
   : '__NETLIFY_FUNCTION_URL__'; // Replace with your actual Netlify function URL
