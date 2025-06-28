@@ -10,7 +10,12 @@
     html, body {
       height: 100%;
       margin: 0;
-      padding: 0;
+      padding: 0;    
+    * {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+
+    }
+    
     }
     #map {
       position: absolute;
@@ -32,6 +37,8 @@
       z-index: 1000;
       width: calc(100% - 140px);
       max-width: 500px;
+      display:flex;
+      gap:1em;
     }
 
     @media (max-width: 768px) {
@@ -50,6 +57,15 @@
       }
     }
 
+    #menuButton {
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+    border: 1px solid #d1d5db;
+    color: #374151;
+
+    }
+
     .search-box {
       position: relative;
       background: white;
@@ -57,6 +73,7 @@
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
       border: 1px solid #d1d5db;
       transition: all 0.15s ease;
+      width:100%
     }
 
     .search-box:focus-within {
@@ -71,7 +88,6 @@
       border-radius: 6px;
       font-size: 14px;
       outline: none;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
       background: transparent;
       color: #374151;
       box-sizing: border-box;
@@ -222,6 +238,7 @@
 <body>
   <!-- Search Container -->
   <div class="search-container">
+    <button id="menuButton">Altitude</button>
     <div class="search-box">
       <input 
         type="text" 
