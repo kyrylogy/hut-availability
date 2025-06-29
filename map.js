@@ -420,7 +420,7 @@ function setMaxAlt () {
   maxAlt = parseInt(maxAltStr);
   if (isNaN(maxAlt) || maxAlt <= minAlt) {
     alert("Illegal value!");
-    setMaxAlt;
+    setMaxAlt();
   }
 }
 
