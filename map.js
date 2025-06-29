@@ -354,8 +354,11 @@ function updateCalendar(hutId, year, month) {
   if (root) root.innerHTML = html;
 }
 
+let minAlt = 0;
+let maxAlt = 9999;
 // Load and display huts
-fetch('huts_with_coords.json')
+function sort (minAlt, maxAlt) {
+  fetch('huts_with_coords.json')
   .then(res => res.json())
   .then(huts => {
     allHuts = huts; // Store for searching
@@ -363,7 +366,18 @@ fetch('huts_with_coords.json')
     huts.forEach(hut => {
         let lat = hut.lat;
         let lng = hut.lng;
-
+        /*const removePunctuation = { 
+            "." : "",
+            "'" : "",
+            "," : ""
+        };
+        let alt = parseInt(hut.altitude.replace(/".","'",","/g, match => removePunctuation[match]));
+        */
+        let alt = parseInt(hut.altitude.replace(".", ""));
+        if (alt < minAlt || alt > maxAlt || isNaN(alt)) {
+          return;
+        }
+        //console.log(alt);
         // Fallback to coordinates string if lat/lng are null
         if ((lat === null || lng === null) && hut.coordinates) {
             const coords = hut.coordinates.split(',').map(s => parseFloat(s.trim()));
@@ -388,3 +402,39 @@ fetch('huts_with_coords.json')
 .catch(err => {
     console.error("Failed to load huts_with_coords.json:", err);
 });
+}
+sort();
+
+function setMinAlt () {
+  minAltStr = prompt("Set minimal altitude", "0");
+  minAlt = parseInt(minAltStr);
+  console.log(minAlt);
+  console.log(typeof minAlt);
+  if (isNaN(minAlt) || minAlt < 0) {
+    alert("Illegal value!");
+    setMinAlt();
+  }
+}
+function setMaxAlt () {
+  maxAltStr = prompt("Set maximal altitude", "5000");
+  maxAlt = parseInt(maxAltStr);
+  if (isNaN(maxAlt) || maxAlt <= minAlt) {
+    alert("Illegal value!");
+    setMaxAlt();
+  }
+}
+
+const menu = document.querySelector("#menuButton");
+
+menu.addEventListener("click",function (e) {
+  let markerPane = document.querySelector(".leaflet-marker-pane");
+  markerPane.innerHTML = "";
+  let shadowPane = document.querySelector(".leaflet-shadow-pane");
+  shadowPane.innerHTML = ""; 
+  //allMarkers = "";
+  //console.log("button pressed!");
+  setMinAlt();
+  setMaxAlt();
+  sort(minAlt, maxAlt);
+
+})
