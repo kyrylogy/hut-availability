@@ -374,7 +374,7 @@ function sort (minAlt, maxAlt) {
         let alt = parseInt(hut.altitude.replace(/".","'",","/g, match => removePunctuation[match]));
         */
         let alt = parseInt(hut.altitude.replace(".", ""));
-        if (alt < minAlt || alt > maxAlt || alt == NaN) {
+        if (alt < minAlt || alt > maxAlt || isNaN(alt)) {
           return;
         }
         //console.log(alt);
