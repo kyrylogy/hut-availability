@@ -1,5 +1,7 @@
 # 🏔️ Hut Availability Map
 
+### LIVE: https://kyrylogy.github.io/hut-availability/
+
 This project visualizes mountain huts (e.g. in Austria) on an interactive map (Mapy.cz) with availability displayed in calendar form for each hut.
 
 ---
