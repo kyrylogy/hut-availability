@@ -229,6 +229,83 @@
       }
     }
 
+    /* Legend */
+    .map-legend {
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+      border: 1px solid #d1d5db;
+      padding: 6px 10px;
+      font-size: 12px;
+      color: #374151;
+      line-height: 1.6;
+    }
+
+    .map-legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .map-legend-pin,
+    .map-legend-dot {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border: 1.5px solid white;
+      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+      flex-shrink: 0;
+    }
+
+    .map-legend-pin {
+      border-radius: 50% 50% 50% 0;
+      transform: rotate(-45deg);
+    }
+
+    .map-legend-dot {
+      border-radius: 50%;
+    }
+
+    /* Bivouac popup */
+    .bivouac-popup {
+      font-size: 12px;
+      color: #374151;
+    }
+
+    .bivouac-popup img {
+      display: block;
+      width: 100%;
+      max-height: 160px;
+      object-fit: cover;
+      border-radius: 4px;
+    }
+
+    .bivouac-credit {
+      font-size: 10px;
+      color: #9ca3af;
+      text-align: right;
+      margin: 2px 0 4px;
+    }
+
+    .bivouac-title {
+      font-weight: bold;
+      font-size: 14px;
+      margin: 4px 0 0;
+    }
+
+    .bivouac-kind {
+      color: #e8590c;
+      font-size: 11px;
+      margin-bottom: 4px;
+    }
+
+    .bivouac-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 10px;
+      margin-top: 6px;
+    }
+
     /* Make sure search is above map controls */
     .leaflet-control-container {
       z-index: 999;
@@ -243,7 +320,7 @@
       <input 
         type="text" 
         class="search-input" 
-        placeholder="Search for a hut..." 
+        placeholder="Search for a hut or bivouac..." 
         id="searchInput"
       >
       <div class="search-results" id="searchResults"></div>

@@ -17,7 +17,19 @@ const tileLayers = {
 };
 
 tileLayers['Outdoor'].addTo(map);
-L.control.layers(tileLayers).addTo(map);
+
+const MARKER_COLORS = {
+  hut: '#2a81cb',     // Leaflet's default pin
+  bivouac: '#e8590c'
+};
+
+const hutLayer = L.layerGroup().addTo(map);
+const bivouacLayer = L.layerGroup().addTo(map);
+// Thousands of bivouacs are too many DOM markers; draw them on a canvas instead
+const bivouacRenderer = L.canvas({ padding: 0.5, tolerance: 6 });
+
+L.control.layers(tileLayers, { 'Huts': hutLayer, 'Bivouacs': bivouacLayer }).addTo(map);
+map.attributionControl.addAttribution('Bivouacs © <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>, <a href="https://www.camptocamp.org" target="_blank">camptocamp.org</a>');
 
 const LogoControl = L.Control.extend({
   options: { position: 'bottomleft' },
@@ -33,9 +45,24 @@ const LogoControl = L.Control.extend({
 });
 new LogoControl().addTo(map);
 
+const LegendControl = L.Control.extend({
+  options: { position: 'bottomright' },
+  onAdd: function () {
+    const container = L.DomUtil.create('div', 'map-legend');
+    container.innerHTML = `
+      <div class="map-legend-item"><span class="map-legend-pin" style="background:${MARKER_COLORS.hut}"></span>Hut with booking</div>
+      <div class="map-legend-item"><span class="map-legend-dot" style="background:${MARKER_COLORS.bivouac}"></span>Bivouac / unstaffed shelter</div>
+    `;
+    L.DomEvent.disableClickPropagation(container);
+    return container;
+  }
+});
+new LegendControl().addTo(map);
+
 // Global variables
 const calendarData = {};
 let allHuts = []; // Store all huts for searching
+let allBivouacs = []; // Store all bivouacs for searching, ids prefixed with "biv-"
 let allMarkers = new Map(); // Store markers by hutId for quick access
 
 // Search functionality
@@ -51,7 +78,13 @@ function normalizeText(text) {
     .replace(/ö/g, 'o')
     .replace(/ü/g, 'u')
     .replace(/ß/g, 's')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // č, š, à... in bivouac names
     .trim();
+}
+
+function escapeHtml(text) {
+  return String(text ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 }
 
 function searchHuts(query) {
@@ -59,7 +92,7 @@ function searchHuts(query) {
   
   const normalizedQuery = normalizeText(query);
   
-  return allHuts.filter(hut => {
+  const huts = allHuts.filter(hut => {
     // Only include huts that have markers (valid coordinates)
     if (!allMarkers.has(String(hut.hutId))) return false;
     
@@ -70,7 +103,19 @@ function searchHuts(query) {
     return name.includes(normalizedQuery) || 
            region.includes(normalizedQuery) || 
            country.includes(normalizedQuery);
-  }).slice(0, 10); // Limit to 10 results
+  });
+
+  // Bivouacs reuse the hut result shape so the dropdown renders both
+  const bivouacs = allBivouacs
+    .filter(b => allMarkers.has(b.id) && normalizeText(b.name).includes(normalizedQuery))
+    .map(b => ({
+      hutId: b.id,
+      hutName: b.name,
+      altitude: b.altitude,
+      region: ['Bivouac', b.country].filter(Boolean).join(' • ')
+    }));
+
+  return [...huts, ...bivouacs].slice(0, 10); // Limit to 10 results
 }
 
 function displaySearchResults(results) {
@@ -85,7 +130,7 @@ function displaySearchResults(results) {
       return `
         <div class="search-result-item" data-hut-id="${hut.hutId}">
           <div class="hut-info">
-            <div class="hut-name">${hut.hutName}</div>
+            <div class="hut-name">${escapeHtml(hut.hutName)}</div>
             ${details ? `<div class="hut-details">${details}</div>` : ''}
           </div>
         </div>
@@ -184,10 +229,19 @@ function loadHutAvailability(hut, marker) {
 
 function jumpToHut(hutId) {
   const marker = allMarkers.get(String(hutId)); // Convert to string
+
+  if (marker && String(hutId).startsWith('biv-')) {
+    if (!map.hasLayer(bivouacLayer)) map.addLayer(bivouacLayer);
+    map.setView(marker.getLatLng(), 14);
+    marker.openPopup();
+    return;
+  }
+
   const hut = allHuts.find(h => String(h.hutId) === String(hutId)); // Convert both to strings
   
   if (marker && hut) {
     // Center the map on the hut
+    if (!map.hasLayer(hutLayer)) map.addLayer(hutLayer);
     map.setView(marker.getLatLng(), 14);
     
     // Load availability and show popup
@@ -354,10 +408,86 @@ function updateCalendar(hutId, year, month) {
   if (root) root.innerHTML = html;
 }
 
+function bivouacPopupHtml(b) {
+  const isUrl = url => /^https?:\/\//.test(url || '');
+
+  const pictureHtml = isUrl(b.picture)
+    ? `<a href="${escapeHtml(isUrl(b.picturePage) ? b.picturePage : b.picture)}" target="_blank" rel="noopener">
+         <img src="${escapeHtml(b.picture)}" alt="${escapeHtml(b.name)}" loading="lazy" onerror="this.parentElement.nextElementSibling.remove(); this.parentElement.remove();" />
+       </a>`
+    : '';
+  const creditLabel = /camptocamp/.test(b.picturePage) ? 'camptocamp.org'
+    : /wikimedia/.test(b.picturePage) ? 'Wikimedia Commons'
+    : 'source';
+  const creditHtml = pictureHtml
+    ? `<div class="bivouac-credit">Photo: <a href="${escapeHtml(b.picturePage || b.picture)}" target="_blank" rel="noopener">${creditLabel}</a></div>`
+    : '';
+
+  const facts = [
+    b.altitude ? `<strong>Elevation:</strong> ${b.altitude} m` : '',
+    b.capacity ? `<strong>Places:</strong> ${escapeHtml(b.capacity)}` : '',
+    b.operator ? `<strong>Operator:</strong> ${escapeHtml(b.operator)}` : ''
+  ].filter(Boolean).map(fact => `<div>${fact}</div>`).join('');
+
+  const links = [
+    [b.website, '🌐 Website'],
+    [b.c2cUrl, '⛰️ camptocamp'],
+    [b.osmUrl, '🗺️ OpenStreetMap']
+  ].filter(([url]) => isUrl(url))
+    .map(([url, label]) => `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${label}</a>`)
+    .join('');
+
+  return `
+    <div class="bivouac-popup">
+      ${pictureHtml}
+      ${creditHtml}
+      <div class="bivouac-title">${escapeHtml(b.name)}</div>
+      <div class="bivouac-kind">Bivouac · unstaffed, no booking</div>
+      ${facts}
+      <div class="bivouac-links">${links}</div>
+    </div>
+  `;
+}
+
+function loadBivouacs(minAlt, maxAlt) {
+  fetch('bivouacs.json')
+  .then(res => res.json())
+  .then(bivouacs => {
+    allBivouacs = bivouacs.map((b, i) => ({ ...b, id: `biv-${i}` }));
+
+    allBivouacs.forEach(b => {
+      // Many bivouacs have no mapped elevation: show them unless a filter is set
+      if (minAlt !== undefined && (!b.altitude || b.altitude < minAlt || b.altitude > maxAlt)) {
+        return;
+      }
+
+      const marker = L.circleMarker([b.lat, b.lng], {
+        renderer: bivouacRenderer,
+        radius: 6,
+        color: '#fff',
+        weight: 1.5,
+        fillColor: MARKER_COLORS.bivouac,
+        fillOpacity: 0.95
+      }).addTo(bivouacLayer);
+      allMarkers.set(b.id, marker);
+
+      marker.bindPopup(() => bivouacPopupHtml(b), { autoPan: true, minWidth: 240, maxWidth: 280, autoPanPadding: [20, 60] });
+    });
+  })
+  .catch(err => {
+    console.error("Failed to load bivouacs.json:", err);
+  });
+}
+
 let minAlt = 0;
 let maxAlt = 9999;
 // Load and display huts
 function sort (minAlt, maxAlt) {
+  hutLayer.clearLayers();
+  bivouacLayer.clearLayers();
+  allMarkers.clear();
+  loadBivouacs(minAlt, maxAlt);
+
   fetch('huts_with_coords.json')
   .then(res => res.json())
   .then(huts => {
@@ -389,7 +519,7 @@ function sort (minAlt, maxAlt) {
 
         if (lat === null || lng === null) return;
 
-        const marker = L.marker([lat, lng]).addTo(map);
+        const marker = L.marker([lat, lng]).addTo(hutLayer);
         allMarkers.set(String(hut.hutId), marker); // Store marker with string key
         
         marker.bindPopup(`<b>${hut.hutName}</b><br><em>Loading availability...</em>`, { autoPan: true, minWidth: 280, autoPanPadding: [20, 60] });
@@ -427,12 +557,6 @@ function setMaxAlt () {
 const menu = document.querySelector("#menuButton");
 
 menu.addEventListener("click",function (e) {
-  let markerPane = document.querySelector(".leaflet-marker-pane");
-  markerPane.innerHTML = "";
-  let shadowPane = document.querySelector(".leaflet-shadow-pane");
-  shadowPane.innerHTML = ""; 
-  //allMarkers = "";
-  //console.log("button pressed!");
   setMinAlt();
   setMaxAlt();
   sort(minAlt, maxAlt);

@@ -1,0 +1,65 @@
+country,name,alt_name,is_bivouac,evidence,lat,lon,ele_m,capacity,operator,tourism,shelter_type,website,wikidata,image_url,image_source,image_alt,osm_type,osm_id,osm_url
+SI,Bivacco Alberto Busettini,Bivacco CAI Tarvisio,True,shelter_type+name,46.439199,13.678754,2149.0,9,CAI Tarvisio,,basic_hut,https://www.cai-fvg.it/sentieri-e-rifugi/rifugi-e-opere-alpine/opere-alpine/503-bivacco-busettini/,,,,,way,36021563,https://www.openstreetmap.org/way/36021563
+SI,Bivak I v Veliki Dnini,,True,shelter_type+name,46.438398,13.819282,2140.0,4,PD Jesenice,,basic_hut,,,,,,node,1777867914,https://www.openstreetmap.org/node/1777867914
+SI,Bivak II na Jezerih,,True,shelter_type+name,46.433619,13.83856,2118.0,,,,basic_hut,http://www.alpinizem.net/?page_id=437,Q12785938,https://commons.wikimedia.org/wiki/Special:FilePath/Bivak_II_Pod_Rokavi.JPG,wikidata:P18,,way,493049052,https://www.openstreetmap.org/way/493049052
+SI,Jamarski bivak,,True,shelter_type+name,46.34989,13.454166,2112.0,,Jamarska zveza Slovenije,,basic_hut,,,,,,node,927280408,https://www.openstreetmap.org/node/927280408
+SI,Bivak Pavla Kemperla,Bivak pod Grintovcem,True,wilderness_hut+name,46.353354,14.54729,2102.0,8,Društvo Gorske reševalne službe Kamnik,wilderness_hut,weather_shelter,https://www.pzs.si/koce.php?pid=110,,,,,node,1843185516,https://www.openstreetmap.org/node/1843185516
+SI,Bivak pod Skuto na Malih podih,,True,wilderness_hut+name,46.358914,14.567909,2045.0,10,,wilderness_hut,weather_shelter,https://www.pd-ljmatica.si/koce/bivak-pod-skuto/,,,,,node,1843185010,https://www.openstreetmap.org/node/1843185010
+SI,Bivak IV. Na rušju,,True,shelter_type+name,46.417503,13.819869,1980.0,,,,basic_hut,,,,,,way,493046348,https://www.openstreetmap.org/way/493046348
+SI,Bivak na Kotovem sedlu,,True,shelter_type+name,46.430382,13.687825,1975.0,,,,basic_hut,,,,,,node,1366937100,https://www.openstreetmap.org/node/1366937100
+SI,Bivak v Kočni,,True,shelter_type+name,46.350779,14.524449,1952.0,8,,,basic_hut,,,,,,node,1332392711,https://www.openstreetmap.org/node/1332392711
+SI,Jamarski bivak na Molički planini,,True,shelter_type+name,46.361108,14.673779,1910.0,,Jamarski klub Speleos - Siga Velenje,,basic_hut,,,,,,way,1275656952,https://www.openstreetmap.org/way/1275656952
+SI,Bivak na prevalu Globoko,Bivak Globoko,True,wilderness_hut+name,46.243629,13.802264,1828.0,2,PD Tolmin,wilderness_hut,weather_shelter,,Q105774500,,,,way,382295171,https://www.openstreetmap.org/way/382295171
+SI,Bivak na Belščici,,True,wilderness_hut+name,46.444398,14.13463,1750.0,,,wilderness_hut,weather_shelter,,,,,,way,1298496303,https://www.openstreetmap.org/way/1298496303
+SI,Bivak v Storžiču,,True,shelter_type+wilderness_hut+name,46.352785,14.400169,1750.0,4,Planinsko društvo Tržič,wilderness_hut,basic_hut,https://www.planinske-koce.si/bivak_pod_storzicem,,,,,way,483491369,https://www.openstreetmap.org/way/483491369
+SI,Koča Koren,Pastirska koča na planini Koren,True,shelter_type,46.307185,14.547883,1672.0,,,,basic_hut,,,,,,way,496611412,https://www.openstreetmap.org/way/496611412
+SI,Biwakschachtel Annahütte,,True,shelter_type+name,46.512399,13.935925,1580.0,,,,basic_hut,,,https://commons.wikimedia.org/wiki/Special:FilePath/Grenzstein_%C3%96sterreich-Slowenien_am_Annah%C3%BCttensattel_%2820926079762%29.jpg,commons:name-match<300m,https://commons.wikimedia.org/wiki/Special:FilePath/Annah%C3%BCttensattel_%2820747764270%29.jpg,way,229925679,https://www.openstreetmap.org/way/229925679
+SI,Bivak pod Muzcem,,True,wilderness_hut+name,46.287371,13.413933,1529.0,,,wilderness_hut,weather_shelter,,Q105757089,https://commons.wikimedia.org/wiki/Special:FilePath/Bivak-pod-muzcem-1550m.jpg,osm:commons,,way,1160921790,https://www.openstreetmap.org/way/1160921790
+SI,Bivak pod Luknjo,,True,shelter_type+name,46.391213,13.821806,1494.0,10,,,basic_hut,,Q105758232,,,,way,293179346,https://www.openstreetmap.org/way/293179346
+SI,,,True,wilderness_hut,46.242341,13.755917,1490.0,,,wilderness_hut,,,,,,,way,436538916,https://www.openstreetmap.org/way/436538916
+SI,Koča na Zadnjem Voglu,,True,wilderness_hut,46.248929,13.825342,1445.0,8,Mladinski odsek PD Jesenic,wilderness_hut,,http://pdjesenice-drustvo.si/sl/nase-koce/zavetisca-in-bivaki/,,,,,way,1151586050,https://www.openstreetmap.org/way/1151586050
+SI,Bivak pod Špikom,,True,shelter_type+name,46.457058,13.818338,1424.0,,,,basic_hut,https://pd-gozdmartuljek.si/?Na%C5%A1e_dejavnosti:Bivak_pod_%C5%A0pikom,Q105757676,,,,way,478096432,https://www.openstreetmap.org/way/478096432
+SI,Bivak III za Akom,,True,shelter_type+name,46.459119,13.836941,1340.0,,,,basic_hut,,,,,,node,2914618202,https://www.openstreetmap.org/node/2914618202
+SI,Koča Vrtača,,True,wilderness_hut,46.429742,14.244562,1288.0,,,wilderness_hut,,,,,,,way,1240260171,https://www.openstreetmap.org/way/1240260171
+SI,Bivak na Kalu,,True,shelter_type+name,46.315188,14.73949,1285.0,,,,basic_hut,,,,,,way,1148452122,https://www.openstreetmap.org/way/1148452122
+SI,Bivak Hlek,,True,wilderness_hut+name,46.266925,13.515119,1224.0,,,wilderness_hut,,,Q58335846,https://commons.wikimedia.org/wiki/Special:FilePath/Bivak_Hlek.jpg,osm:commons,,way,1285614298,https://www.openstreetmap.org/way/1285614298
+SI,Bivak na Črniku nad Drežnico,,True,wilderness_hut+name,46.264741,13.643091,1160.0,,,wilderness_hut,,https://pzs.si/mountain-huts/61/,Q105757636,,,,node,4339683953,https://www.openstreetmap.org/node/4339683953
+SI,Bivak Florjana Šona,,True,shelter_type+name,46.192335,15.152836,1090.0,,PD Zabukovica,,basic_hut,,,,,,node,1779387672,https://www.openstreetmap.org/node/1779387672
+SI,Planinsko zavetišče Slatna,,True,wilderness_hut,46.487988,13.713946,1023.0,,PD Lisca,wilderness_hut,,,Q105757915,,,,way,1249002221,https://www.openstreetmap.org/way/1249002221
+SI,Bajta,,True,wilderness_hut,46.393856,14.603957,988.0,8,,wilderness_hut,,,,,,,way,1099729800,https://www.openstreetmap.org/way/1099729800
+SI,Lipovčeva koča,,True,wilderness_hut,46.470681,13.830249,920.0,,Mladinski odsek PD Jesenic,wilderness_hut,,,,,,,way,966475156,https://www.openstreetmap.org/way/966475156
+SI,Bivak ob Počitniškem domu v Možnici,,True,shelter_type+wilderness_hut+name,46.384175,13.567706,793.0,,,wilderness_hut,basic_hut,,,,,,way,1079714872,https://www.openstreetmap.org/way/1079714872
+SI,Koča na Kavcu,,True,wilderness_hut,45.925265,14.450067,730.0,,,wilderness_hut,,https://www.hribi.net/slika_pot/lovska_koca_plehanov_laz_koca_na_kavcu/109266,,,,,way,673127325,https://www.openstreetmap.org/way/673127325
+SI,,,True,wilderness_hut,46.256713,13.588109,,,,wilderness_hut,,,,,,,node,12240648993,https://www.openstreetmap.org/node/12240648993
+SI,,,True,shelter_type,46.319424,13.530732,,,,,basic_hut,,,,,,node,12254859248,https://www.openstreetmap.org/node/12254859248
+SI,,,True,wilderness_hut,46.053973,14.164859,,,,wilderness_hut,,,,,,,node,12570805366,https://www.openstreetmap.org/node/12570805366
+SI,,,True,shelter_type,46.242348,13.756025,,,,,basic_hut,,,,,,way,436538914,https://www.openstreetmap.org/way/436538914
+SI,,,True,wilderness_hut,45.817215,14.529255,,,,wilderness_hut,,,,,,,way,936252303,https://www.openstreetmap.org/way/936252303
+SI,,,True,shelter_type,46.047004,14.518008,,,,,basic_hut,,,,,,way,975721529,https://www.openstreetmap.org/way/975721529
+SI,,,True,wilderness_hut,46.40679,14.416351,,,,wilderness_hut,,,,,,,way,1215609498,https://www.openstreetmap.org/way/1215609498
+SI,,,True,wilderness_hut,46.363216,13.543021,,,,wilderness_hut,,,,,,,way,1524341692,https://www.openstreetmap.org/way/1524341692
+SI,,,True,shelter_type,45.533491,13.626136,,,,,basic_hut,,,,,,way,1554333451,https://www.openstreetmap.org/way/1554333451
+SI,Bivak Stebrasta skala,Žakeljnov bivak,True,shelter_type+name,46.423286,14.060297,,,,,basic_hut,,,,,,way,1148841826,https://www.openstreetmap.org/way/1148841826
+SI,Bivak gorskih reševalcev,,True,shelter_type+name,46.34371,13.475845,,,,,basic_hut,,,,,,way,983702524,https://www.openstreetmap.org/way/983702524
+SI,Bivak na Javoršku,,True,shelter_type+name,46.254151,14.762412,,,,,basic_hut,,,,,,way,1217504448,https://www.openstreetmap.org/way/1217504448
+SI,Bivak na Kamniškem vrhu,,True,shelter_type+name,46.287507,14.580612,,,,,basic_hut,,,,,,way,802539935,https://www.openstreetmap.org/way/802539935
+SI,Bivak na Kojci,,True,shelter_type+name,46.153885,13.926537,,,,,basic_hut,,,,,,way,1129502605,https://www.openstreetmap.org/way/1129502605
+SI,Bivak na Prehodavcih – zimska soba,,True,shelter_type+name,46.357786,13.792226,,24,,,basic_hut,,,https://static1.squarespace.com/static/5458d569e4b07b86a4d3eb45/t/56786fe8df40f3876ba8cf6a/1450733546665,osm:image,,way,389087841,https://www.openstreetmap.org/way/389087841
+SI,Bivak – Evropska pešpot E6/E7,,True,shelter_type+name,45.835858,14.533223,,,,,basic_hut,,,,,,way,1081173866,https://www.openstreetmap.org/way/1081173866
+SI,Blažev bivak na Golavi,,True,shelter_type+name,46.206791,15.104702,,,,,basic_hut,,,,,,node,11495016787,https://www.openstreetmap.org/node/11495016787
+SI,Cetinova koča,,True,shelter_type,45.827813,14.063885,,,,,basic_hut,,,,,,way,1188148820,https://www.openstreetmap.org/way/1188148820
+SI,Hišica dobrega počutja,,True,wilderness_hut,46.309468,14.312629,,,,wilderness_hut,,,,,,,node,14157655450,https://www.openstreetmap.org/node/14157655450
+SI,Jamarska koča,,True,shelter_type,45.910765,14.24181,,,,,basic_hut,,,,,,way,906387005,https://www.openstreetmap.org/way/906387005
+SI,Koserjeva koča (LD Rogatec),,True,shelter_type,46.25513,15.766647,,,,hunting_lodge,basic_hut,,,,,,way,1312907310,https://www.openstreetmap.org/way/1312907310
+SI,Koča Breza,,True,wilderness_hut,46.054221,14.692529,,,Društvo tabornikov Rod Črnega mrava,wilderness_hut,,https://www.crnimrav.si/koca-z-idejo,,,,,way,520513854,https://www.openstreetmap.org/way/520513854
+SI,Kurirska postaja TV 17,,True,shelter_type,45.913061,14.299043,,,,,basic_hut,,,,,,node,11456235457,https://www.openstreetmap.org/node/11456235457
+SI,Lovska koča,,True,wilderness_hut,45.534384,14.106812,,,,wilderness_hut,,,,,,,way,1251145103,https://www.openstreetmap.org/way/1251145103
+SI,Lovska koča na Miji,,True,wilderness_hut,46.240314,13.485217,,,,wilderness_hut,,,,,,,way,1274574221,https://www.openstreetmap.org/way/1274574221
+SI,Lovska koča Črnevka,Lovska koča pod Kalškim grebenom,True,shelter_type,46.331207,14.56424,,,,hunting_lodge,basic_hut,,,,,,way,607958215,https://www.openstreetmap.org/way/607958215
+SI,Miškova hiša,,True,wilderness_hut,45.826506,13.771173,,,,wilderness_hut,,,,,,,way,1178532261,https://www.openstreetmap.org/way/1178532261
+SI,Podraška bajta,,True,wilderness_hut,45.791338,14.024773,,4,,wilderness_hut,,,,,,,way,485004848,https://www.openstreetmap.org/way/485004848
+SI,Polharska Koča,,True,wilderness_hut,46.005476,14.239414,,,,wilderness_hut,,,,,,,node,11577769870,https://www.openstreetmap.org/node/11577769870
+SI,Polhova koča,,True,shelter_type,45.833269,14.064546,,,,,basic_hut,,,,,,way,43525501,https://www.openstreetmap.org/way/43525501
+SI,Zimska soba,,True,shelter_type,46.319007,13.778812,,,,,basic_hut,,,https://commons.wikimedia.org/wiki/Special:FilePath/Triglav_National_Park_-_hut.jpg,commons:name-match<300m,https://commons.wikimedia.org/wiki/Special:FilePath/Double_Lake_hut.jpg | https://commons.wikimedia.org/wiki/Special:FilePath/Ko%C4%8Da_pri_Triglavskih_jezerih_-_umgeben_von_Seen.jpg,way,498293307,https://www.openstreetmap.org/way/498293307
+SI,lovska koča,,True,shelter_type,46.639129,15.092467,,,,,basic_hut,,,,,,way,983126741,https://www.openstreetmap.org/way/983126741
+SI,lovska koča,,True,wilderness_hut,46.282407,14.579902,,,,wilderness_hut,,,,,,,way,1299061963,https://www.openstreetmap.org/way/1299061963

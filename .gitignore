@@ -1,2 +1,7 @@
 # Local Netlify folder
 .netlify
+
+# Bivouac pipeline caches and full exports
+scripts/cache/
+scripts/out/
+__pycache__/
